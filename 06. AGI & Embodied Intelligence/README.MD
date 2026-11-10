@@ -1,4 +1,4 @@
-### 📄 README.md (English Version)
+#### 📄 README.md (English Version)
 
 # 06. AGI & Embodied Intelligence: The Physical Redline Matrix
 
@@ -34,17 +34,17 @@
     ▼
     Battery energy density limits peak power output for dynamic movements ──> [ EMBODIED MOTION FAILURE ]
 
-06. Catastrophic Forgetting (Weight Interference)
+06. Catastrophic Forgetting (Manifold Interference)
     ▼
-    Gradient updates for new tasks physically overwrite critical weight distributions ──> [ NEURAL NETWORK COLLAPSE ]
+    Gradient updates cause effective rank collapse in parameter space, zeroing old task information ──> [ NEURAL NETWORK COLLAPSE ]
 
-07. Multimodal Alignment Geometric Inconsistency
+07. Multimodal Alignment Topological Distortion Limit
     ▼
-    Different sensory manifolds lack a universal geometric invariant ──> [ REPRESENTATION DECOUPLING ]
+    Non-commutative topological mapping between continuous Euclidean and discrete symbol spaces induces irreducible distortion ──> [ REPRESENTATION DECOUPLING ]
 
-08. Long-Context Attention Quadratic Scaling
+08. Attention Matrix Quadratic Memory Wall
     ▼
-    Token interaction complexity exceeds memory bandwidth, causing quadratic latency ──> [ CONTEXT FRAGMENTATION ]
+    O(N²) activation memory storage hits physical HBM bandwidth limits, forcing truncation ──> [ CONTEXT FRAGMENTATION ]
 
 09. Exteroception & Proprioception Signal Delay
     ▼
@@ -57,7 +57,7 @@
 
 ---
 
-### 📄 README.md (中文版)
+#### 📄 README.md (中文版)
 
 # 06. 通用AI与具身智能：物理死锁矩阵
 
@@ -93,27 +93,27 @@
     ▼
     电池能量密度物理上限锁死了峰值功率输出 ──> [ 运动失效 ]
 
-06. 灾难性遗忘（权重物理干涉）
+06. 灾难性遗忘（参数流形干涉）
     ▼
-    新任务梯度更新物理覆盖关键权重分布 ──> [ 神经网络崩塌 ]
+    梯度更新导致参数空间有效秩塌缩，旧任务信息被数学清零 ──> [ 神经网络崩塌 ]
 
-07. 多模态对齐的几何不一致
+07. 多模态对齐的拓扑畸变极限
     ▼
-    不同感官流形缺乏统一的几何不变量 ──> [ 表征解耦 ]
+    连续欧氏空间与离散符号空间的不可交换映射，产生不可消除的畸变 ──> [ 表征解耦 ]
 
-08. 长上下文注意力二次方爆炸
+08. 注意力矩阵二次方内存墙
     ▼
-    Token交互复杂度击穿内存带宽，导致延迟呈二次方增长 ──> [ 上下文碎裂 ]
+    二次方级激活值存储击穿物理显存带宽极限，被迫截断 ──> [ 上下文碎裂 ]
 
 09. 外感受与本体感觉信号延迟
     ▼
     外部传感与内部状态估计之间的物理传输时延 ──> [ 空间迷失 ]
 
-10. 仿真到现实的物理鸿沟 (Sim2Real)
+10. 仿真到现实的物理鸿沟
     ▼
     现实中未建模的高频机械摩擦与流体动力学 ──> [ 抓取崩溃 ]
 ```
 
 ---
 **元点校准：**
-以上死锁全部剥除了“参数不够、算力来凑、微调能行”的算法玄学，直接钉死在**热力学极值、晶体管漏电、机械刚体动力学与香农信息论的 1/0 物理临界点**。
+以上修正全部剥离了“梯度覆盖”这种拟人化描述，直接锚定**参数流形的有效秩塌缩、拓扑映射的不可交换性、以及二次方级内存爆炸的 1/0 物理极值**。
