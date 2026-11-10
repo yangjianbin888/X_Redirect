@@ -14,13 +14,13 @@
 ```text
 [ QUANTUM COMPUTING SYSTEMS: PHYSICAL DEADLOCK MATRIX ]
 
-01. Quantum Decoherence & T2 Phase Collapse
+01. Lamb-Dicke Decoherence & T2 Phase Collapse
     ▼
-    Environmental electromagnetic coupling induces uncontrolled phase evolution ──> [ QUANTUM STATE LOSS ]
+    Uncontrollable phonon emission and environmental EM coupling drive irreversible phase evolution ──> [ QUANTUM STATE LOSS ]
 
-02. Cryogenic Thermal Boundary Resistance (Kapitza)
+02. Cryogenic Kapitza Resistance Limit
     ▼
-    Phonon mismatch at solid-solid interfaces blocks heat extraction at mK levels ──> [ THERMAL ISOLATION FAILURE ]
+    Phonon mismatch at solid-solid interfaces blocks heat extraction (T³/T⁴ limits) at mK levels ──> [ THERMAL ISOLATION FAILURE ]
 
 03. Microwave Crosstalk & Frequency Collision
     ▼
@@ -38,11 +38,11 @@
     ▼
     Spontaneous parametric down-conversion (SPDC) photon pair generation rate hits fundamental nonlinear limits ──> [ SCALING BOTTLENECK ]
 
-07. Trapped Ion Heating Rate
+07. Trapped Ion Anomalous Heating Rate
     ▼
     Anomalous electric field noise from surface adsorbates heats ion motion ──> [ GATE FIDELITY LOSS ]
 
-08. Readout Fidelity vs. Resonator Bandwidth
+08. Readout Fidelity vs. Resonator Bandwidth Tradeoff
     ▼
     High-speed measurement requires wide bandwidth, increasing thermal photon noise ──> [ MEASUREMENT ERROR ]
 
@@ -50,9 +50,9 @@
     ▼
     Coaxial lines from room temperature to mK stage conduct blackbody radiation ──> [ COOLING BUDGET EXHAUSTION ]
 
-10. Error Correction Threshold Overhead
+10. Surface Code Threshold Breach
     ▼
-    Physical error rates exceed surface code threshold due to fabrication variance ──> [ LOGICAL QUBIT COLLAPSE ]
+    Physical error rates exceed the topological surface code threshold limit ──> [ LOGICAL QUBIT COLLAPSE ]
 ```
 
 ---
@@ -73,19 +73,19 @@
 ```text
 [ 量子计算体系：物理死锁矩阵 ]
 
-01. 量子退相干与T2相位崩塌
+01. 兰姆-迪克退相干与T2相位崩塌
     ▼
-    环境电磁耦合导致不可控的相位演化 ──> [ 量子态丢失 ]
+    不可控的声子发射与环境电磁耦合驱动不可逆的相位演化 ──> [ 量子态丢失 ]
 
-02. 极低温热边界阻力（卡皮查阻力）
+02. 极低温卡皮查热阻极限
     ▼
-    固-固界面的声子失配在毫开尔文级锁死热传导 ──> [ 热隔离失效 ]
+    固-固界面的声子失配（T³/T⁴物理极限）在毫开尔文级锁死热传导 ──> [ 热隔离失效 ]
 
 03. 微波串扰与频率碰撞
     ▼
     高密度量子比特阵列导致可寻址频率拥挤与拉比振荡干涉 ──> [ 门操作错误 ]
 
-04. 二能级系统(TLS)缺陷
+04. 二能级系统缺陷吸收
     ▼
     非晶材料界面捕获能量并吸收量子比特微波光子 ──> [ 相干性退化 ]
 
@@ -95,7 +95,7 @@
 
 06. 光子纠缠产生效率死锁
     ▼
-    自发参量下转换(SPDC)的产率触及非线性物理极限 ──> [ 扩展瓶颈 ]
+    自发参量下转换的产率触及非线性物理极限 ──> [ 扩展瓶颈 ]
 
 07. 离子阱异常加热率
     ▼
@@ -109,11 +109,11 @@
     ▼
     室温到毫开尔文温区的同轴线必然传导黑体辐射 ──> [ 制冷预算耗尽 ]
 
-10. 量子纠错阈值开销死锁
+10. 表面码阈值物理击穿
     ▼
-    制造方差导致物理错误率突破表面码阈值 ──> [ 逻辑比特崩溃 ]
+    物理错误率突破拓扑表面码的阈值极限 ──> [ 逻辑比特崩溃 ]
 ```
 
 ---
 **元点校准：**
-以上死锁全部剥除了“算法优化”的伪装，直接钉死在**热力学第二定律、量子力学波函数坍缩、声子边界散射与电磁场极值的 1/0 临界点**。
+以上死锁全部剥除了“算法优化”与“制造方差”的概率学伪装，直接钉死在**声子边界散射的T³/T⁴定律、不可逆相位演化、表面码阈值极限与黑体辐射的 1/0 物理临界点**。
