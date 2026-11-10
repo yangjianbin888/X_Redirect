@@ -1,4 +1,4 @@
-### 📄 README.md (English Version)
+#### 📄 README.md (English Version)
 
 # 09. Modern Medical Systems & Brain-Computer Interfaces: The Physical Redline Matrix
 
@@ -14,21 +14,21 @@
 ```text
 [ MODERN MEDICAL SYSTEMS & BRAIN-COMPUTER INTERFACES: PHYSICAL DEADLOCK MATRIX ]
 
-01. Foreign Body Response (Glial Scarring)
+01. Young's Modulus Mismatch & Glial Scarring
     ▼
-    Rigid electrode mechanical mismatch triggers immune encapsulation ──> [ ELECTRICAL INSULATION ]
+    Rigid electrode (100+ GPa) vs. soft tissue (~1 kPa) under micro-motion causes mechanical cutting and immune encapsulation ──> [ ELECTRICAL INSULATION ]
 
-02. Blood-Brain Barrier (BBB) Tight Junction Barrier
+02. Blood-Brain Barrier (BBB) Paracellular Permeability Limit
     ▼
-    Endothelial tight junctions physically block macromolecular delivery ──> [ DRUG DELIVERY FAILURE ]
+    Endothelial tight junctions create extreme Trans-Epithelial Electrical Resistance (TEER), physically zeroing macromolecular delivery ──> [ DRUG DELIVERY FAILURE ]
 
 03. Electrode-Electrolyte Impedance Mismatch
     ▼
     Faradaic and capacitive limits at the tissue interface restrict charge injection ──> [ SIGNAL ATTENUATION ]
 
-04. Neural Signal Shunting & Thermal Noise
+04. Neural Signal Shunting & Johnson-Nyquist Noise
     ▼
-    High-impedance microelectrodes pick up Johnson-Nyquist thermal noise ──> [ SIGNAL-TO-NOISE COLLAPSE ]
+    High-impedance microelectrodes pick up thermal noise, collapsing the SNR ──> [ SIGNAL-TO-NOISE COLLAPSE ]
 
 05. Optogenetic Photon Scattering & Absorption
     ▼
@@ -38,7 +38,7 @@
     ▼
     Implanted metal leads focus RF energy, causing local tissue burns ──> [ THERMAL NECROSIS ]
 
-07. Continuous Power Delivery to Implants
+07. Implant Power Delivery Energy Density Cliff
     ▼
     Battery energy density and electromagnetic induction limits lock implant lifespan ──> [ POWER DEPLETION ]
 
@@ -50,14 +50,14 @@
     ▼
     Artificial surfaces trigger platelet adhesion and coagulation cascade ──> [ VASCULAR OCCLUSION ]
 
-10. Biological Tissue Rejection & Encapsulation
+10. Chronic Foreign Body Reaction (Fibrous Encapsulation)
     ▼
-    Implanted material chemical incompatibility triggers fibrous encapsulation ──> [ IMPLANT DEATH ]
+    Implanted material chemical incompatibility triggers permanent fibrous encapsulation ──> [ IMPLANT DEATH ]
 ```
 
 ---
 
-### 📄 README.md (中文版)
+#### 📄 README.md (中文版)
 
 # 09. 现代医学体系与脑机接口：物理死锁矩阵
 
@@ -73,31 +73,31 @@
 ```text
 [ 现代医学体系与脑机接口：物理死锁矩阵 ]
 
-01. 异物排斥反应（胶质疤痕）
+01. 杨氏模量失配与胶质疤痕
     ▼
-    刚性电极与脑组织的物理机械失配，强制触发免疫包裹 ──> [ 电学绝缘死锁 ]
+    刚性电极（100 GPa以上）与软组织（约1 kPa）在微动下持续物理切割，触发免疫包裹 ──> [ 电学绝缘死锁 ]
 
-02. 血脑屏障（BBB）紧密连接屏障
+02. 血脑屏障旁细胞渗透率极限
     ▼
-    内皮细胞紧密连接在物理上阻断了高分子药物递送 ──> [ 递药失败 ]
+    内皮细胞紧密连接构成极高的跨膜电阻，大分子递送率在物理上归零 ──> [ 递药失败 ]
 
 03. 电极-电解质阻抗失配
     ▼
     组织界面的法拉第与电容电荷注入极限，锁死信号传输 ──> [ 信号衰减 ]
 
-04. 神经信号分流与热噪声
+04. 神经信号分流与约翰逊-奈奎斯特热噪声
     ▼
-    高阻抗微电极必然拾取约翰逊-奈奎斯特热噪声 ──> [ 信噪比崩塌 ]
+    高阻抗微电极必然拾取热噪声，击穿信噪比极限 ──> [ 信噪比崩塌 ]
 
 05. 光遗传学光子散射与吸收
     ▼
     脑组织浑浊度在物理上散射光子，阻断深部刺激 ──> [ 光穿透失败 ]
 
-06. 核磁共振(MRI)射频致热
+06. 核磁共振射频致热
     ▼
     植入的金属导线在射频场中聚焦能量，烧毁局部组织 ──> [ 热坏死 ]
 
-07. 植入体持续供电死锁
+07. 植入体供电能量密度悬崖
     ▼
     电池能量密度与电磁感应极限，锁死植入物寿命 ──> [ 断电死锁 ]
 
@@ -109,12 +109,9 @@
     ▼
     人工表面强制触发血小板粘附与凝血级联反应 ──> [ 血管闭塞 ]
 
-10. 生物组织排斥与包裹
+10. 慢性异物反应（纤维化包裹）
     ▼
-    植入材料的化学不相容性，必然触发纤维化包裹 ──> [ 植入体死亡 ]
+    植入材料的化学不相容性，必然触发永久性纤维化包裹 ──> [ 植入体死亡 ]
 ```
 
 ---
-**元点校准：**
-以上死锁全部剥除了“医学进步、新材料研发”的安慰剂话术，直接钉死在**免疫物理排斥、血脑屏障结构、热噪声极限、法拉第电解定律与光子散射的 1/0 物理临界点**。
-
