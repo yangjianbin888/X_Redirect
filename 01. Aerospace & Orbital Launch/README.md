@@ -4,7 +4,7 @@
 
 > **【Prerequisite: First-Principles Boundary】**
 > All derivations in this repository are based on the Universe's First Principles. 
-> **To understand or refute, you must proceed based on the Universe's First Principles.**
+> **To understand or refute, you must proceed based on the Universe's First Principles.** 
 > *(Note: Any challenge based on academic titles, empiricism, or outdated papers will be deemed physically illiterate and ignored.)*
 
 ---
@@ -14,21 +14,21 @@
 ```text
 [ AEROSPACE & ORBITAL LAUNCH: PHYSICAL DEADLOCK MATRIX ]
 
-01. Full-Flow Staged Combustion (FFSC) Turbopump Thermal Barrier 
+01. FFSC Oxygen-Rich Preburner Oxidation Kinetics
     ▼
-    Extreme oxygen-rich preburner temps cause turbine blade melting ──> [ ENGINE RUD ]
+    High-pressure pure O2 triggers exponential Ni-alloy oxidation (Gibbs free energy < 0) ──> [ ENGINE RUD ]
 
-02. TPS & Cryogenic Tank CTE Mismatch 
+02. TPS & Cryogenic Tank Thermal Strain (Δε) Incompatibility
     ▼
-    Aerodynamic heating vs. LOX cooling generates >800 MPa shear stress ──> [ STRUCTURAL TEAR ]
+    Aerodynamic heating vs. LOX cooling induces unavoidable interfacial thermal strain (Δε = Δα·ΔT) ──> [ STRUCTURAL TEAR ]
 
-03. VTVL Supersonic Retro-Propulsion 
+03. VTVL Supersonic Retro-Propulsion Authority
     ▼
-    Aerodynamic drag & lateral wind shear exceed grid fin authority ──> [ LANDING CRASH ]
+    Aerodynamic drag & lateral wind shear exceed grid fin control torque limit ──> [ LANDING CRASH ]
 
-04. CFRP Cryogenic Tank Micro-cracking 
+04. CFRP Cryogenic Tank Matrix Micro-cracking
     ▼
-    Carbon fiber matrix micro-fractures at -183°C under mechanical load ──> [ TANK RUPTURE ]
+    CTE mismatch between carbon fiber and polymer matrix at -183°C causes micro-fracture ──> [ TANK RUPTURE ]
 
 05. 100-Ton LEO Structural Coefficient Wall 
     ▼
@@ -50,9 +50,9 @@
     ▼
     Propellant feed line frequency couples with structural resonance ──> [ VEHICLE EXPLOSION ]
 
-10. Supersonic Parachute Deployment Shock 
+10. Supersonic Parachute Dynamic Pressure (q) Limit
     ▼
-    Infinite drag coefficient at high Mach causes canopy structural failure ──> [ CHUTE FAILURE ]
+    Deploying at high Mach causes stagnation pressure (q) to exceed canopy tensile strength ──> [ CHUTE FAILURE ]
 ```
 
 ---
@@ -73,23 +73,23 @@
 ```text
 [ 火箭与天地运载：物理死锁矩阵 ]
 
-01. 全流量分级燃烧(FFSC)涡轮泵热障
+01. 全流量分级燃烧富氧预燃室氧化动力学
     ▼
-    富氧预燃室极温导致涡轮叶片熔化 ──> [ 发动机解体 ]
+    高压纯氧环境触发镍基合金阿伦尼乌斯指数级氧化（吉布斯自由能为负） ──> [ 发动机解体 ]
 
-02. 隔热瓦与低温贮箱的CTE失配
+02. 隔热瓦与低温贮箱热应变失配
     ▼
-    气动加热与液氧冷却产生 >800 MPa 剪切应力 ──> [ 结构撕裂 ]
+    气动加热与液氧冷却产生不可吸收的界面热应变差（Δε = Δα·ΔT） ──> [ 结构撕裂 ]
 
-03. VTVL超音速反推着陆
+03. 垂直起降超音速反推控制权限死锁
     ▼
-    气动阻力与侧风切变超过栅格舵控制权限 ──> [ 着陆坠毁 ]
+    气动阻力与侧风切变产生的力矩超过栅格舵物理控制权限 ──> [ 着陆坠毁 ]
 
-04. CFRP低温复合材料贮箱微裂纹
+04. 碳纤维增强复合材料低温贮箱基体微裂纹
     ▼
-    -183°C下碳纤维基体在机械载荷下微裂 ──> [ 贮箱破裂 ]
+    零下一百八十三度下碳纤维与聚合物基体的热膨胀系数失配导致微断裂 ──> [ 贮箱破裂 ]
 
-05. 百吨级LEO结构系数死锁
+05. 百吨级近地轨道结构系数死锁
     ▼
     结构系数 < 8% 的物理极限锁死了运力上限 ──> [ 运力悬崖 ]
 
@@ -105,15 +105,15 @@
     ▼
     电离鞘层屏蔽所有射频遥测信号 ──> [ 遥测丢失 ]
 
-09. 纵向耦合振动(Pogo)共振
+09. 纵向耦合振动共振
     ▼
     推进剂管路频率与箭体结构共振 ──> [ 火箭爆炸 ]
 
-10. 超音速降落伞开伞冲击
+10. 超音速降落伞动压极限
     ▼
-    高马赫数下的无限阻力系数导致伞衣结构撕裂 ──> [ 降落伞失效 ]
+    高马赫数开伞导致驻点压力突破伞衣材料的抗拉强度极值 ──> [ 降落伞失效 ]
 ```
 
 ---
-
-
+**元点校准：**
+以上 10 条死锁，全部剥离了“极温/无限阻力”这类伪物理修辞，直接锚定**吉布斯自由能、热应变积分、驻点动压与结构共振的 1/0 物理临界点**。
