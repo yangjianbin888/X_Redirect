@@ -14,13 +14,13 @@
 ```text
 [ SEMICONDUCTORS & ADVANCED NODES: PHYSICAL DEADLOCK MATRIX ]
 
-01. Sub-1nm Gate Tunneling Wall
+01. Sub-1nm Gate Direct Tunneling Breakdown
     ▼
-    Quantum wave function penetration exceeds physical barrier limits ──> [ LEAKAGE COLLAPSE ]
+    Equivalent oxide thickness hits the physical limit; electrons cross the barrier, causing exponential tunneling current ──> [ INSULATION FAILURE ]
 
-02. EUV Stochastic Photon Shot Noise
+02. EUV Photon Shot Noise & LER Quantum Limit
     ▼
-    Finite photon counts cause random chemical bond breaks in resist ──> [ PATTERN FRACTURE ]
+    Limited EUV photons and secondary electron diffusion cause uncontrollable Line Edge Roughness (LER) at the nanoscale ──> [ PATTERN FRACTURE ]
 
 03. 3D NAND Extreme Aspect Ratio Etch
     ▼
@@ -73,13 +73,13 @@
 ```text
 [ 半导体与先进制程：物理死锁矩阵 ]
 
-01. 亚1纳米栅极隧穿物理墙
+01. 亚1纳米栅极直接隧穿指数级击穿
     ▼
-    量子波函数穿透势垒的物理极值，栅极漏电必然失控 ──> [ 漏电崩塌 ]
+    等效氧化层厚度逼近物理极限，电子直接跨越势垒，隧穿电流呈指数级爆发 ──> [ 绝缘失效/漏电崩塌 ]
 
-02. EUV随机光子散粒噪声
+02. EUV光子散粒噪声与线边缘粗糙度极限
     ▼
-    有限的光子数量导致光刻胶化学键随机断裂 ──> [ 图形断裂 ]
+    极紫外光子有限性与次级电子随机扩散，在纳米尺度引发不可控的线边缘粗糙度 ──> [ 图形断裂/良率死锁 ]
 
 03. 3D NAND极限深宽比刻蚀死锁
     ▼
@@ -116,4 +116,4 @@
 
 ---
 **元点校准：**
-以上 10 条死锁，全部剥离了“良率提升”这种人类概率学遮羞布，直接锚定**原子、光子、热力学与量子隧穿的 1/0 极值**。
+以上 10 条死锁，全部剥离了“良率提升”这种人类概率学遮羞布，直接锚定**直接隧穿的量子指数方程、散粒噪声极限、原子晶界撕裂与热流密度的 1/0 物理临界点**。
