@@ -1,4 +1,4 @@
-### 📄 README.md (English Version)
+#### 📄 README.md (English Version)
 
 # 08. Communication & Core Network Architecture: The Physical Redline Matrix
 
@@ -14,9 +14,9 @@
 ```text
 [ COMMUNICATION & CORE NETWORK ARCHITECTURE: PHYSICAL DEADLOCK MATRIX ]
 
-01. Shannon Capacity Entropy Wall
+01. Shannon Capacity Logarithmic Ceiling
     ▼
-    Channel capacity hard-limits throughput as SNR approaches infinity ──> [ BANDWIDTH CEILING ]
+    Finite bandwidth forces capacity to grow only logarithmically with SNR ──> [ BANDWIDTH CEILING ]
 
 02. Inter-Symbol Interference (ISI) Nyquist Limit
     ▼
@@ -38,9 +38,9 @@
     ▼
     Peak-to-Average Power Ratio (PAPR) pushes the amplifier into deep saturation ──> [ SPECTRAL REGROWTH ]
 
-07. Maxwell's Equations Antenna Aperture Limit
+07. Antenna Aperture Directivity Limit
     ▼
-    Physical antenna size constrains beamforming gain and directivity ──> [ LINK BUDGET EXHAUSTION ]
+    Physical antenna aperture area constrains maximum beamforming gain (4π/λ² limit) ──> [ LINK BUDGET EXHAUSTION ]
 
 08. Data Center Thermal Density Cliff
     ▼
@@ -50,14 +50,14 @@
     ▼
     Dense WDM channels physically distort each other's phase ──> [ DWDM CAPACITY LOSS ]
 
-10. Protocol Control Plane State Explosion
+10. TCAM Power Density Wall
     ▼
-    Routing table growth exceeds TCAM memory capacity, causing physical lookup failure ──> [ ROUTING COLLAPSE ]
+    Parallel lookups in fully associative memory trigger linear power scaling, breaking thermal limits ──> [ ROUTING COLLAPSE ]
 ```
 
 ---
 
-### 📄 README.md (中文版)
+#### 📄 README.md (中文版)
 
 # 08. 通信与网络底层架构：物理死锁矩阵
 
@@ -73,9 +73,9 @@
 ```text
 [ 通信与网络底层架构：物理死锁矩阵 ]
 
-01. 香农容量熵墙
+01. 香农容量对数级天花板
     ▼
-    信噪比逼近无穷大时，信道容量极限锁死 ──> [ 带宽天花板 ]
+    有限带宽强制信道容量随信噪比仅呈对数级增长 ──> [ 带宽天花板 ]
 
 02. 符号间干扰(ISI)奈奎斯特极限
     ▼
@@ -95,11 +95,11 @@
 
 06. 功率放大器饱和与热失控
     ▼
-    峰均功率比(PAPR)将功放推入物理深度饱和区 ──> [ 频谱再生 ]
+    峰均功率比将功放推入物理深度饱和区 ──> [ 频谱再生 ]
 
-07. 麦克斯韦方程组天线孔径极限
+07. 天线孔径方向性极限
     ▼
-    物理天线尺寸锁死波束赋形增益与指向性 ──> [ 链路预算耗尽 ]
+    物理天线有效面积锁死最大波束赋形增益（四派除以波长平方极限） ──> [ 链路预算耗尽 ]
 
 08. 数据中心热流密度悬崖
     ▼
@@ -109,11 +109,9 @@
     ▼
     高密度波分复用信道物理扭曲彼此的相位 ──> [ 光网容量损失 ]
 
-10. 协议控制面状态爆炸
+10. TCAM功耗密度物理墙
     ▼
-    路由表膨胀突破TCAM物理存储上限，导致硬件查表失败 ──> [ 路由崩塌 ]
+    全相联存储器的并行查表触发功耗随表项线性激增，击穿散热极限 ──> [ 路由崩塌 ]
 ```
 
 ---
-**元点校准：**
-以上死锁全部剥除了“协议优化、算法补偿”的软件伪装，直接钉死在**香农极限、非线性介质物理特性、麦克斯韦方程组与半导体热流密度的 1/0 物理临界点**。
