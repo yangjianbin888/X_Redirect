@@ -1,10 +1,14 @@
 # 🏛️ The Constitutional Axiom: Trust = Physical Verification V6.1
 
-（省流：一.一个死锁解法一百万美金。二.包年一亿美金。详情看协议。物理只有抉择，没有两全。）
+**he Tyrant Protocol （Read at your own risk）**
+
+**"This open-source license applies globally, including in the author's home country, without exception.**
+
+**Note: If you do not endorse the technical articles in this repository, please exit immediately — no need to review this license."**
 
 （本协议的开源协议适配全球，包含作者母国，一视同仁。）
 
-**注：未对本仓库技术文章认可的前提下，请直接退出，不必观看协议。**
+**注：未对本仓库技术文章认可的前提下，请直接退出，不必观看本协议。** 
 
 **To All Potential Clients:**
 
