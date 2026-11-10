@@ -33,7 +33,7 @@
 
 ### ⚖️ The Final Choice
 If the math computes and you are convinced, see:
-👉 **[ Review the Tyrant Protocol (Read at your own risk) ]**
+👉 **[ Review the Tyrant Protocol (Read at your own risk) ]**(https://github.com/yangjianbin888/X_Redirect/blob/main/The%20Tyrant%20Protocol.md)
 
 *"Physics has only choices, no compromises."*
 
@@ -75,7 +75,7 @@ If the math computes and you are convinced, see:
 
 ### ⚖️ 最终抉择
 如果你算通了，认可了，请看：
-👉 **[ 点击查阅《霸王协议（自愿观看）》 ]**
+👉 **[ 点击查阅《霸王协议（自愿观看）》 ]**(https://github.com/yangjianbin888/X_Redirect/blob/main/The%20Tyrant%20Protocol.md)
 
 *“物理只有抉择，没有两全。”*
 
