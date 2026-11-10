@@ -1,4 +1,4 @@
-### 📄 README.md (English Version)
+#### 📄 README.md (English Version)
 
 # 10. Civilizational Disaster Response & Deep Space Physics: The Physical Redline Matrix
 
@@ -14,9 +14,9 @@
 ```text
 [ CIVILIZATIONAL DISASTER RESPONSE & DEEP SPACE PHYSICS: PHYSICAL DEADLOCK MATRIX ]
 
-01. Impact Energy Dissipation Limit (Relativistic Kinetic)
+01. Impact Kinetic Energy to Vaporization
     ▼
-    Asteroid kinetic energy exceeds planetary crust binding energy ──> [ BIOSPHERE STERILIZATION ]
+    Impact energy density exceeds the latent heat of vaporization for crustal materials, causing surface vaporization and global shockwave ──> [ BIOSPHERE STERILIZATION ]
 
 02. Supervolcano Magmatic Overpressure
     ▼
@@ -28,7 +28,7 @@
 
 04. Deep Space Cosmic Ray Flux (HZE Ions)
     ▼
-    High-Z energetic ions physically shear DNA strands and electronics ──> [ SYSTEMIC DEGRADATION ]
+    High-LET energetic ions cause dense nanoscale ionization, directly breaking chemical bonds and displacing lattice atoms ──> [ SYSTEMIC DEGRADATION ]
 
 05. Gravity Well Delta-V Escape Penalty
     ▼
@@ -42,9 +42,9 @@
     ▼
     Vacuum environment permits radiation-only heat transfer ──> [ THERMAL CHOKE ]
 
-08. Orbital Debris Kessler Cascade
+08. Orbital Debris Critical Density Cascade
     ▼
-    Collision frequency physically exceeds atmospheric drag decay rate ──> [ ORBITAL COLLAPSE ]
+    Debris collision generation rate exceeds atmospheric drag decay rate, triggering exponential debris multiplication ──> [ ORBITAL COLLAPSE ]
 
 09. Solar Flare Radio Blackout
     ▼
@@ -57,7 +57,7 @@
 
 ---
 
-### 📄 README.md (中文版)
+#### 📄 README.md (中文版)
 
 # 10. 文明级灾难应对与深空物理：物理死锁矩阵
 
@@ -73,9 +73,9 @@
 ```text
 [ 文明级灾难应对与深空物理：物理死锁矩阵 ]
 
-01. 撞击能量耗散极限（相对论动能）
+01. 撞击动能至汽化相变死锁
     ▼
-    小行星动能突破地壳结合能极限 ──> [ 生物圈灭菌 ]
+    撞击能量密度突破地壳物质的汽化潜热极限，引发地表物质气化与全球冲击波 ──> [ 生物圈灭菌 ]
 
 02. 超级火山岩浆超压
     ▼
@@ -83,13 +83,13 @@
 
 03. 太阳超级风暴磁层饱和
     ▼
-    日冕物质抛射(CME)动能物理性地击穿地球磁屏蔽 ──> [ 电网气化 ]
+    日冕物质抛射动能物理性地击穿地球磁屏蔽 ──> [ 电网气化 ]
 
 04. 深空宇宙射线通量（HZE重离子）
     ▼
-    高能重离子在物理上切断DNA链与电子器件 ──> [ 系统性退化 ]
+    高线性能量转移的重离子引发纳米级密集电离，直接切断化学键并造成晶格原子位移 ──> [ 系统性退化 ]
 
-05. 引力势阱速度增量(Delta-V)逃逸惩罚
+05. 引力势阱速度增量逃逸惩罚
     ▼
     齐奥尔科夫斯基公式物理锁死了推进剂的指数级质量惩罚 ──> [ 轨道锁死 ]
 
@@ -101,9 +101,9 @@
     ▼
     真空环境只允许纯辐射散热，排热路径锁死 ──> [ 热窒息 ]
 
-08. 轨道碎片凯斯勒级联
+08. 轨道碎片临界密度凯斯勒级联
     ▼
-    碰撞频率突破大气阻力衰减率物理极限 ──> [ 轨道崩塌 ]
+    碎片碰撞生成率突破大气阻力衰减率，触发碎片指数级增殖 ──> [ 轨道崩塌 ]
 
 09. 太阳耀斑无线电中断
     ▼
@@ -115,8 +115,3 @@
 ```
 
 ---
-**元点校准：**
-以上死锁全部剥除了“科技发展、文明拯救”的科幻幻想，直接钉死在**相对论动能、地壳断裂力学、斯特藩-玻尔兹曼辐射定律与光速不变原理的 1/0 物理临界点**。
-
-**全部 10 个矩阵目录已闭环完毕。** 
-按总纲流程：如果你要用你们的超算跑通了，觉得有价值，请移步根目录查看《霸王协议》。
