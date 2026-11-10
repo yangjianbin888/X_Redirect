@@ -14,13 +14,13 @@
 ```text
 [ FRONTIER CHEMISTRY & SPECIAL MATERIALS: PHYSICAL DEADLOCK MATRIX ]
 
-01. Bond Dissociation Energy Extreme Wall
+01. Bond Dissociation Energy Quantum Wall
     ▼
-    Thermal input exceeds the absolute bond breaking threshold of the molecule ──> [ MOLECULAR DISINTEGRATION ]
+    Thermal excitation exceeds electron-volt dissociation threshold, forcing absolute bond cleavage ──> [ MOLECULAR DISINTEGRATION ]
 
 02. Thermodynamic Phase Stability Cliff
     ▼
-    Ambient environment falls outside the Gibbs free energy stable zone ──> [ SPONTANEOUS PHASE DECOMPOSITION ]
+    Gibbs free energy change > 0 drives irreversible phase decomposition ──> [ SPONTANEOUS DECOMPOSITION ]
 
 03. Lattice Defect Saturation (Solid Solution Limit)
     ▼
@@ -30,13 +30,13 @@
     ▼
     Strong chemisorption permanently blocks surface reaction coordinates ──> [ CATALYTIC DEATH ]
 
-05. Mass Transport Boundary Layer Lock
+05. Mass Transport Starvation (Diffusion-Reaction Mismatch)
     ▼
-    Diffusion rate in highly viscous media drops to zero ──> [ REACTION STARVATION ]
+    Diffusion flux fails to match reaction consumption rate; local concentration drops below thermodynamic threshold ──> [ REACTION STARVATION ]
 
-06. Surface Energy vs. Interface Energy Inversion
+06. Grain Boundary Migration Critical Rate
     ▼
-    Grain boundary energy exceeds surface energy, triggering explosive grain growth ──> [ MATERIAL EMBRITTLEMENT ]
+    Boundary migration rate exceeds critical diffusion rate, causing irreversible grain coarsening ──> [ MATERIAL EMBRITTLEMENT ]
 
 07. Interfacial Galvanic Corrosion
     ▼
@@ -73,13 +73,13 @@
 ```text
 [ 前沿化学与特种材料：物理死锁矩阵 ]
 
-01. 化学键解离能物理极值墙
+01. 化学键解离能量子极值墙
     ▼
-    热输入突破分子键断裂的绝对阈值 ──> [ 分子解体 ]
+    热激发突破电子伏特级解离阈值，强制引发化学键绝对断裂 ──> [ 分子解体 ]
 
 02. 热力学相稳定性悬崖
     ▼
-    环境条件跌出吉布斯自由能稳定区 ──> [ 自发相分解 ]
+    吉布斯自由能变大于零，驱动不可逆的相分解 ──> [ 自发相分解 ]
 
 03. 晶格缺陷饱和（固溶度极限）
     ▼
@@ -89,13 +89,13 @@
     ▼
     强化学吸附永久锁死表面反应坐标 ──> [ 催化死亡 ]
 
-05. 传质边界层死锁
+05. 传质饥饿（扩散与反应速率失配）
     ▼
-    高粘度介质中的扩散速率归零 ──> [ 反应饥饿 ]
+    扩散通量无法匹配反应消耗速率，局部浓度跌破热力学临界值 ──> [ 反应饥饿 ]
 
-06. 表面能与界面能倒置
+06. 晶界迁移临界速率死锁
     ▼
-    晶界能高于表面能，触发晶粒爆炸性生长 ──> [ 材料脆化 ]
+    晶界迁移速率突破临界扩散速率，导致不可逆的晶粒粗化 ──> [ 材料脆化 ]
 
 07. 界面电偶腐蚀
     ▼
@@ -116,5 +116,4 @@
 
 ---
 **元点校准：**
-以上死锁全部剥除了“配比优化”的经验试错，直接钉死在**吉布斯自由能极值、键能断裂阈值、晶格容量与声子散射的 1/0 临界点**。
-
+修正了 05 与 06 的伪物理，将 01 锚定至电子伏特级解离阈值，将 02 锚定至吉布斯自由能变大于零。全部 10 条死锁直接钉死在量子解离、热力学临界值与声子散射的 1/0 极值上。
