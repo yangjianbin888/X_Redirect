@@ -1,4 +1,4 @@
-### 📄 README.md (English Version)
+#### 📄 README.md (English Version)
 
 # 07. Frontier Electromagnetics & High-Energy Conversion: The Physical Redline Matrix
 
@@ -18,9 +18,9 @@
     ▼
     Local electric field exceeds the material's ionization threshold ──> [ INSULATION PUNCTURE ]
 
-02. Magnetic Saturation (B-H Curve Cliff)
+02. Magnetic Saturation (Domain Wall Pinning & Anisotropy)
     ▼
-    Core flux density hits the physical spin alignment limit ──> [ INDUCTANCE COLLAPSE ]
+    Exchange interaction and magnetocrystalline anisotropy lock domain wall motion; magnetization cannot flip further ──> [ INDUCTANCE COLLAPSE ]
 
 03. Skin Effect & Proximity Effect Attenuation
     ▼
@@ -30,9 +30,9 @@
     ▼
     Secondary electron emission synchronizes with RF fields in vacuum ──> [ RF SYSTEM FAILURE ]
 
-05. Cavity Overheating & Thermal Runaway
+05. Superconducting Cavity Thermal Runaway
     ▼
-    Surface resistance spikes with temperature, creating a positive feedback loop ──> [ STRUCTURAL VAPORIZATION ]
+    Surface resistance undergoes a phase transition past the critical temperature, creating positive feedback ──> [ STRUCTURAL VAPORIZATION ]
 
 06. Paschen's Law Minimum Breakdown Voltage
     ▼
@@ -55,9 +55,7 @@
     Differential heating rates force massive thermal stresses at rigid interfaces ──> [ SYSTEM RUPTURE ]
 ```
 
----
-
-### 📄 README.md (中文版)
+#### 📄 README.md (中文版)
 
 # 07. 前沿电磁应用与高能转换：物理死锁矩阵
 
@@ -77,9 +75,9 @@
     ▼
     局部电场突破材料的电离物理阈值 ──> [ 绝缘穿透 ]
 
-02. 磁饱和（B-H曲线悬崖）
+02. 磁饱和（磁畴壁钉扎与磁晶各向异性锁定）
     ▼
-    磁芯磁通密度触及电子自旋排列物理极限 ──> [ 电感崩塌 ]
+    交换相互作用与磁晶各向异性锁死磁畴壁移动，磁化矢量无法继续翻转 ──> [ 电感崩塌 ]
 
 03. 趋肤效应与邻近效应衰减
     ▼
@@ -89,13 +87,13 @@
     ▼
     真空环境下二次电子发射与射频场物理同步 ──> [ 射频系统失效 ]
 
-05. 谐振腔过热与热失控
+05. 超导腔热失控相变
     ▼
-    表面电阻随温度飙升，形成正反馈物理死锁 ──> [ 结构气化 ]
+    表面电阻在突破临界温度时发生相变跃升，形成正反馈 ──> [ 结构气化 ]
 
 06. 帕邢定律最低击穿电压死锁
     ▼
-    特定的气压-距离乘积(pd)导致气体在极低电压下物理击穿 ──> [ 电弧闪络 ]
+    特定的气压-距离乘积导致气体在极低电压下物理击穿 ──> [ 电弧闪络 ]
 
 07. 磁重联与等离子体不稳定性
     ▼
@@ -114,6 +112,3 @@
     非均匀加热在刚性界面强制产生巨型热应力 ──> [ 系统破裂 ]
 ```
 
----
-**元点校准：**
-以上死锁全部剥除了“材料改良、结构优化”的概率性遮羞布，直接钉死在**麦克斯韦方程组、帕邢定律、电子自旋极限与焦耳热正反馈的 1/0 物理临界点**。
