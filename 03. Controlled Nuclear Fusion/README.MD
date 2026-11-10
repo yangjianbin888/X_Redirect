@@ -14,9 +14,9 @@
 ```text
 [ CONTROLLED NUCLEAR FUSION: PHYSICAL DEADLOCK MATRIX ]
 
-01. Plasma Turbulent Transport & Anomalous Loss
+01. Plasma Turbulence & Bohm Diffusion Limit
     ▼
-    Micro-instabilities drive cross-field transport beyond classical limits ──> [ CONFINEMENT COLLAPSE ]
+    Scale-free turbulent eddies force cross-field transport coefficients beyond the Bohm limit, destroying magnetic confinement ──> [ CONFINEMENT COLLAPSE ]
 
 02. Divertor Heat Flux Extreme 
     ▼
@@ -26,9 +26,9 @@
     ▼
     High-energy neutron collisions cause atomic displacement & gas bubbles ──> [ FIRST WALL FRACTURE ]
 
-04. Tritium Breeding Ratio (TBR) Physical Deficit
+04. Neutron Escape & Parasitic Absorption Deficit in Compact Geometry
     ▼
-    Neutron capture cross-section limits TBR < 1.0 in compact geometries ──> [ FUEL STARVATION ]
+    High surface-to-volume ratio and structural parasitic absorption physically lock TBR < 1.0 ──> [ FUEL STARVATION ]
 
 05. Disruption & Runaway Electron Avalanche
     ▼
@@ -73,9 +73,9 @@
 ```text
 [ 可控核聚变：物理死锁矩阵 ]
 
-01. 等离子体湍流输运与反常损失
+01. 等离子体湍流输运与玻姆扩散极值
     ▼
-    微观不稳定性驱动的跨场输运突破经典极限 ──> [ 约束崩塌 ]
+    无标度湍流涡旋导致跨场输运系数击穿玻姆极限，磁约束失效 ──> [ 约束崩塌 ]
 
 02. 偏滤器热流极值死锁
     ▼
@@ -85,9 +85,9 @@
     ▼
     高能中子碰撞导致原子位移与气泡聚集 ──> [ 第一壁断裂 ]
 
-04. 氚增殖比(TBR)物理赤字
+04. 紧凑几何下的中子逃逸与寄生吸收赤字
     ▼
-    致密几何结构下中子俘获截面锁死 TBR < 1.0 ──> [ 燃料枯竭 ]
+    表面积体积比激增与结构材料寄生吸收，物理锁死氚增殖比 < 1.0 ──> [ 燃料枯竭 ]
 
 05. 破裂与逃逸电子雪崩
     ▼
@@ -116,4 +116,4 @@
 
 ---
 **元点校准：**
-以上死锁全部剥除了“工程优化”的概率学外衣，直接钉死在**原子位移、热力学极值、相对论能量和磁流体不稳定性的 1/0 临界点**。
+以上死锁全部剥除了“工程优化”的概率学外衣，直接钉死在**玻姆扩散、原子位移、相对论能量与中子逃逸的 1/0 物理临界点**。
