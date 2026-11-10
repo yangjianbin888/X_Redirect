@@ -1,9 +1,13 @@
 # ⚡ Physical Extreme Matrix (Dedicated X Reader Entry)
 （2026-11-10）
+
 > **【Prerequisite: First-Principles Boundary】**
 > All derivations in this repository are based on the Universe's First Principles.
 > **To understand or refute, you must proceed based on the Universe's First Principles.**
 > *(Note: Any challenge based on academic titles, empiricism, or outdated papers will be deemed physically illiterate and ignored.)*
+> 
+> **【Scope of Jurisdiction】**
+> This matrix is strictly limited to cross-domain physical deadlocks that are **physically reproducible within the next 10 years**. Metaphysics, pseudoscience, and sci-fi concepts (e.g., immortality) are excluded from this physical jurisdiction.
 
 ---
 
@@ -45,7 +49,7 @@
 
 ### ⚖️ The Final Choice
 If the math computes and you are convinced, see:
-👉 **[ Review the Tyrant Protocol (Read at your own risk) ]**(https://github.com/yangjianbin888/X_Redirect/blob/main/The%20Tyrant%20Protocol.md)
+👉 **[ Review the Tyrant Protocol (Read at your own risk) ](https://github.com/yangjianbin888/X_Redirect/blob/main/The%20Tyrant%20Protocol.md)**
 
 *"Physics has only choices, no compromises."*
 
@@ -58,6 +62,9 @@ If the math computes and you are convinced, see:
 > 本仓库的所有推演，均基于宇宙第一性原理推导。
 > **理解或反驳，请基于宇宙第一性原理进行。**
 > （注：任何基于学术头衔、经验主义或过时论文的质疑，均视为物理常识不合格，不予回复。）
+> 
+> **【绝对物理辖区声明】**
+> 本矩阵仅涵盖未来 **10 年内具备工程化落地物理可复现** 的全领域死锁。玄学、伪科学及跨代科幻概念（如长生不死），不在本系统的物理裁决范畴之内。
 
 ---
 
@@ -99,9 +106,6 @@ If the math computes and you are convinced, see:
 
 ### ⚖️ 最终抉择
 如果你算通了，认可了，请看：
-👉 **[ 点击查阅《霸王协议（自愿观看）》 ]**(https://github.com/yangjianbin888/X_Redirect/blob/main/The%20Tyrant%20Protocol.md)
+👉 **[ 点击查阅《霸王协议（自愿观看）》 ](https://github.com/yangjianbin888/X_Redirect/blob/main/The%20Tyrant%20Protocol.md)**
 
 *“物理只有抉择，没有两全。”*
-
----
-
