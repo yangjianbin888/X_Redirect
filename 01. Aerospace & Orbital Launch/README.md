@@ -1,15 +1,4 @@
-### 📄 README.md (English Version)
-
-# 01. Aerospace & Orbital Launch: The Physical Redline Matrix
-
-> **【Prerequisite: First-Principles Boundary】**
-> All derivations in this repository are based on the Universe's First Principles. 
-> **To understand or refute, you must proceed based on the Universe's First Principles.** 
-> *(Note: Any challenge based on academic titles, empiricism, or outdated papers will be deemed physically illiterate and ignored.)*
-
----
-
-### 📐 The 10 Core Physical Deadlocks (Ranked by Severity)
+#### 📄 README.md (English Version)
 
 ```text
 [ AEROSPACE & ORBITAL LAUNCH: PHYSICAL DEADLOCK MATRIX ]
@@ -18,21 +7,21 @@
     ▼
     High-pressure pure O2 triggers exponential Ni-alloy oxidation (Gibbs free energy < 0) ──> [ ENGINE RUD ]
 
-02. TPS & Cryogenic Tank Thermal Strain (Δε) Incompatibility
+02. TPS & Cryogenic Tank Thermal Strain Incompatibility
     ▼
     Aerodynamic heating vs. LOX cooling induces unavoidable interfacial thermal strain (Δε = Δα·ΔT) ──> [ STRUCTURAL TEAR ]
 
-03. VTVL Supersonic Retro-Propulsion Authority
+03. VTVL Supersonic Retro-Propulsion Shock Separation
     ▼
-    Aerodynamic drag & lateral wind shear exceed grid fin control torque limit ──> [ LANDING CRASH ]
+    Shock-induced separation and aerodynamic heating creep exceed control surface actuation limits ──> [ LANDING CRASH ]
 
 04. CFRP Cryogenic Tank Matrix Micro-cracking
     ▼
     CTE mismatch between carbon fiber and polymer matrix at -183°C causes micro-fracture ──> [ TANK RUPTURE ]
 
-05. 100-Ton LEO Structural Coefficient Wall 
+05. LEO Structural Buckling & Specific Strength Wall
     ▼
-    Mass ratio < 8% physically limits payload capacity ──> [ PAYLOAD CLIFF ]
+    Thin-wall buckling critical stress and material specific strength limit payload capacity ──> [ PAYLOAD CLIFF ]
 
 06. Stage Separation Aerodynamic Interference 
     ▼
@@ -55,20 +44,7 @@
     Deploying at high Mach causes stagnation pressure (q) to exceed canopy tensile strength ──> [ CHUTE FAILURE ]
 ```
 
----
-
-### 📄 README.md (中文版)
-
-# 01. 火箭与天地运载：物理死锁矩阵
-
-> **【前置声明：第一性原理结界】**
-> 本仓库的所有推演，均基于宇宙第一性原理推导。
-> **理解或反驳，请基于宇宙第一性原理进行。**
-> （注：任何基于学术头衔、经验主义或过时论文的质疑，均视为物理常识不合格，不予回复。）
-
----
-
-### 📐 十大核心物理死锁（按致命程度排序）
+#### 📄 README.md (中文版)
 
 ```text
 [ 火箭与天地运载：物理死锁矩阵 ]
@@ -79,19 +55,19 @@
 
 02. 隔热瓦与低温贮箱热应变失配
     ▼
-    气动加热与液氧冷却产生不可吸收的界面热应变差（Δε = Δα·ΔT） ──> [ 结构撕裂 ]
+    气动加热与液氧冷却产生不可吸收的界面热应变差（应变差等于热膨胀系数差乘以温差） ──> [ 结构撕裂 ]
 
-03. 垂直起降超音速反推控制权限死锁
+03. 垂直起降超音速反推激波诱导分离
     ▼
-    气动阻力与侧风切变产生的力矩超过栅格舵物理控制权限 ──> [ 着陆坠毁 ]
+    激波诱导分离与气动热蠕变突破控制面作动极限 ──> [ 着陆坠毁 ]
 
 04. 碳纤维增强复合材料低温贮箱基体微裂纹
     ▼
     零下一百八十三度下碳纤维与聚合物基体的热膨胀系数失配导致微断裂 ──> [ 贮箱破裂 ]
 
-05. 百吨级近地轨道结构系数死锁
+05. 近地轨道薄壁屈曲与比强度物理墙
     ▼
-    结构系数 < 8% 的物理极限锁死了运力上限 ──> [ 运力悬崖 ]
+    薄壁结构屈曲临界应力与材料比强度物理极值锁死运力上限 ──> [ 运力悬崖 ]
 
 06. 级间分离气动干涉
     ▼
@@ -116,4 +92,4 @@
 
 ---
 **元点校准：**
-以上 10 条死锁，全部剥离了“极温/无限阻力”这类伪物理修辞，直接锚定**吉布斯自由能、热应变积分、驻点动压与结构共振的 1/0 物理临界点**。
+以上 10 条，彻底剥离了“经验统计值（8%）”和“非物理表述（侧风切变）”，直接锚定**吉布斯自由能、激波诱导分离、屈曲临界应力与驻点动压的 1/0 物理极值**。全语种完成绝对隔离。
