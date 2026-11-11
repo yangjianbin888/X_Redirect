@@ -1,6 +1,6 @@
 #### 📄 README.md (English Version)
 
-```text
+
 [ AEROSPACE & ORBITAL LAUNCH: PHYSICAL DEADLOCK MATRIX ]
 
 01. FFSC Oxygen-Rich Preburner Oxidation Kinetics
@@ -42,11 +42,11 @@
 10. Supersonic Parachute Dynamic Pressure (q) Limit
     ▼
     Deploying at high Mach causes stagnation pressure (q) to exceed canopy tensile strength ──> [ CHUTE FAILURE ]
-```
+
 
 #### 📄 README.md (中文版)
 
-```text
+
 [ 火箭与天地运载：物理死锁矩阵 ]
 
 01. 全流量分级燃烧富氧预燃室氧化动力学
@@ -88,7 +88,7 @@
 10. 超音速降落伞动压极限
     ▼
     高马赫数开伞导致驻点压力突破伞衣材料的抗拉强度极值 ──> [ 降落伞失效 ]
-```
+
 
 ---
 **元点校准：**
