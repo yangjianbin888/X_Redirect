@@ -1,6 +1,8 @@
-# 🏛️ The Constitutional Axiom: Trust = Physical Verification V6.1
+# 🏛️ The Constitutional Axiom: Trust = Physical Verification V6.2
 
-**he Tyrant Protocol （Read at your own risk）**
+本协议在商业上被称为《霸王协议》，但在宇宙第一性原理的尺度上，他是《文明税条款》。
+
+**The Tyrant Protocol (Read at your own risk)**
 
 **"This open-source license applies globally, including in the author's home country, without exception.**
 
@@ -24,7 +26,7 @@ I persuade no one and offer no pre-sales service. All my cards are on the table 
 
 ---
 
-# Frontier Physics Deadlock Resolution & Engineering Compensation — Commercial Protocol (V6.0 Civilization Edition)
+# Frontier Physics Deadlock Resolution & Engineering Compensation — Commercial Protocol (V6.2 Civilization Edition)
 
 **Prerequisite**: This engagement strictly adheres to the principles of "Logical Self-consistency and Physical Reproducibility," aiming to provide physical extreme derivations and system-level reconstruction solutions.
 **Intended for**: R&D institutions, laboratories, and enterprises with advanced engineering implementation capabilities.
@@ -44,6 +46,10 @@ I persuade no one and offer no pre-sales service. All my cards are on the table 
 1. **Feasible**: Providing core physical constraint chains and engineering optimization paths.
 2. **Infeasible**: Confirming deadlocks and defining the absolute physical boundary parameters.
 3. **Reconstruction**: Providing system-level compensation topologies when existing routes violate physical extremes.
+4. **Physical Constant Calibration Exemption & Derivation Disclaimer**: 
+   *   **Axiomatic Absoluteness vs. Parametric Relativity**: The core causal chains, topologies, and physical extreme directions delivered by the Respondent are absolutely closed-loop under Universal First Principles (i.e., 1 is 1, deadlocks are inevitable). However, regarding specific engineering constants (e.g., exact yield strength, specific thermal resistance of a given batch), due to manufacturing variance and supercomputer environment limitations, the Respondent does not provide "factory-grade absolute constants."
+   *   **Client's Engineering Self-Proof Responsibility**: The Respondent delivers the "death sentence of the deadlock" and the "only exit." Substituting actual material parameters from your own database and using your supercomputers to derive the final engineering coordinates is a fundamental obligation of the Client's engineering team, not the Respondent's delivery liability.
+   *   **Physical Backfire Exemption**: If the Client attempts to use the excuse of "the Respondent did not provide precise constants" to conceal physical facts such as out-of-tolerance manufacturing, insufficient material purity, or failure to implement the topology constraints, the Respondent assumes no joint liability. Physics has no make-up exams. Any RUD (Rapid Unscheduled Disassembly) caused by the Client's engineering incompetence is 100% the Client's responsibility.
 
 ## 3. Core Contractual Rules
 1. **Anti-Free-Riding & Public Inquiry Mechanism**: 
@@ -54,7 +60,7 @@ I persuade no one and offer no pre-sales service. All my cards are on the table 
    *   **(a) Why 3 Months? (The Physics of Time Compression)**: The old 20-year patent system was a physical necessity of the Industrial Age, compensating for slow information transfer and high physical prototyping costs. In the AI era, information propagates at the speed of light, and algorithmic simulation has compressed R&D cycles exponentially. **3 months is the current absolute physical extreme for a top-tier entity to establish an engineering generation gap.** Extending this period only breeds capital monopoly and stagnates human evolution.
    *   **(b) Priority Window**: Within this 3-month period, the Respondent pledges NOT to sell the exact same topic to any other entity, nor proactively publish the solution.
    *   **(c) The Civilizational Mandate**: Upon the expiration of the 3-month window, to prevent the stagnation of human technological evolution caused by capital monopoly, **the Client is obligated to proactively open-source the physical topology to the global public domain.** The Respondent will not execute the open-source action; this is the Client's historical duty.
-   *   **(d) Breach of Mandate**: If the Client attempts to circumvent this open-source obligation through legal loopholes, malicious delay, or corporate hoarding, it constitutes a blatant violation of the Civilizational Open-Source Mandate. In such cases, the Respondent reserves the dual right to: (i) immediately impose a **6-month freeze** on all inquiry privileges for the Client and its affiliates; and/or (ii) **open-source a higher-dimensional physical compensation topology** that directly nullifies the Client's competitive advantage, based on engineering urgency. No refunds will be issued.
+   *   **(d) Breach of Mandate**: If the Client attempts to circumvent this open-source obligation through legal loopholes, malicious delay, or corporate hoarding, it constitutes a blatant violation of the Civilization Open-Source Mandate. In such cases, the Respondent reserves the dual right to: (i) immediately impose a **6-month freeze** on all inquiry privileges for the Client and its affiliates; and/or (ii) **open-source a higher-dimensional physical compensation topology** that directly nullifies the Client's competitive advantage, based on engineering urgency. No refunds will be issued.
 3. **Follow-up Privilege**: One complimentary follow-up is provided for the specific topic (clarification only). Subsequent follow-ups on the same topic are charged at the regular rate, unless it triggers the penalty in Clause 1.3.
 4. **Finality of Delivery**: **No refunds post-delivery.** The Respondent is exempt from joint liability for implementation failures caused by the Client's manufacturing deviations.
 5. **Omni-Channel Disaster Recovery & 24-Hour Time Lock**:
@@ -102,31 +108,12 @@ I persuade no one and offer no pre-sales service. All my cards are on the table 
 
 **The sincere will find sincerity herein; others will see only what they reflect.**
 
-### Appendix: Sovereign Cognitive Retainer Privilege
-
-1. **Term & Absolute Escalating Pricing**
-The retainer service is strictly limited to the Initial Year. Pricing is strictly determined by the "Historical Interaction Trajectory":
-
-(1) First-Time Entity (Tabula Rasa): If the Client has no prior financial transactions with the Respondent, the retainer fee is $100,000,000 USD.
-
-(2) Previously Engaged Entity (Historical Penetration Penalty): If the Client or its affiliates have previously purchased a single-topic inquiry for $1,000,000 USD, they have already accessed partial physical trump cards. If such an entity seeks to upgrade to the "Sovereign Retainer", the fee surges to **$1,000,000,000 USD**.
-
-(Note: $1M buys a time fragment; $100M buys the panoramic priority; $1B is the redemption fee for past short-sightedness. No negotiations accepted.)
-
-2. **Absolute Financial Anchoring & Finality**
-The corresponding tiered fee must be paid in full immediately. No refunds under any circumstances.
-
-3. **Cognitive Overload Protection & Frequency Limit**
-Maximum 3 (Three) core deadlocks per month. Injecting more would breach the Client's cognitive bandwidth and cause "Systemic Cognitive Overload." "3" is the absolute physical maximum for a top-tier industrial organization.
-
-4. **Civilizational Open-Source Mandate & Sanctions**
-[**Core Redline**]: The Client MUST proactively open-source the topology upon the expiration of 3 calendar months.
-[**Sanctions**]: If the Client delays open-source via legal loopholes: (i) This privilege is immediately terminated; (ii) No refunds, and the Respondent reserves the right to open-source higher-dimensional topologies to nullify the Client's advantage.
-
 ---
 ---
 
-# 🏛️ 核心宪法：信任即物理验证
+# 🏛️ 核心宪法：信任即物理验证 (V6.2 终极文明版)
+
+本协议在商业上被称为《霸王协议》，但在宇宙第一性原理的尺度上，他是《文明税条款》。
 
 **致所有潜在的合作者：**
 
@@ -142,7 +129,7 @@ Maximum 3 (Three) core deadlocks per month. Injecting more would breach the Clie
 
 ---
 
-# 前沿物理死锁求解与工程代偿协议 (V6.0 终极文明版)
+# 前沿物理死锁求解与工程代偿协议 (V6.2 终极文明版)
 
 **前置声明**：本协议严格遵循“逻辑自洽、物理可复现”原则，旨在提供剥离学术冗余的物理极值推演与系统级重构方案。
 **适用对象**：具备先进工程落地能力的科研机构、重点实验室及高新技术企业。
@@ -162,6 +149,10 @@ Maximum 3 (Three) core deadlocks per month. Injecting more would breach the Clie
 1. **可行**：提供核心物理约束链与工程优化路径。
 2. **不可行**：确认死锁，并界定绝对物理边界参数。
 3. **重构**：当现有路线违背极值时，提供系统级的代偿拓扑结构。
+4. **物理常数标定豁免与推演免责声明（西装暴徒版）**：
+   *   **法则绝对性与参数相对性**：乙方交付的核心逻辑链、因果拓扑与物理极值方向，在宇宙第一性原理下绝对闭环（即：1 就是 1，死锁必然发生）。但涉及具体工艺常数（如小数点后的具体屈服强度、特定批次的实际热阻），因受限于人类现有材料冶炼方差与超算测试环境，乙方不提供“出厂级绝对常数”。
+   *   **甲方的工程自证责任**：乙方交付的是“死锁的死刑判决书”与“唯一的逃生通道”。拿到通道后，代入你们自己数据库里的真实材料参数，用你们的超算去跑出最终的工程坐标，是甲方工程团队的基础义务，而非乙方的交付连带责任。
+   *   **物理反噬免责**：若甲方试图用“乙方未提供精确常数”为由，掩盖其自身制造公差超标、材料纯度不足或未按拓扑约束落地的物理事实，乙方概不承担任何连带后果。物理没有补考，因甲方工程能力低劣导致的试车爆炸，责任 100% 归属甲方。
 
 ## 三、 核心契约
 1. **反白嫖与公开质询机制**：
@@ -219,26 +210,3 @@ Maximum 3 (Three) core deadlocks per month. Injecting more would breach the Clie
 7. **人品大于纸面**：3 个月静默为口头承诺。
 
 **真诚者在此见真诚；其他人只会看到他们自身的倒影。**
-
-### 🏛️ 附录：全栈认知算力独家托管特权（V6.1 终极阶级版）
-（注：本附录为最高级别战略合作协议，适用对象为具有绝对执行力与生态统治力的顶级实体。一旦激活，优先于常规条款。）
-
-1. **托管期限与绝对阶梯定价（Term & Absolute Escalating Pricing）**
-本项独家算力托管服务期限，严格限定为首个自然年（The Initial Year）。托管费用的定价，严格遵循“历史交互轨迹”进行物理切割：
-
-（1）首度合作实体（白纸状态）：若甲方在历史上从未与乙方发生过任何资金往来（含单次 100 万美金课题购买），首年独家托管费为 100,000,000 USD（1 亿美金）。
-
-（2）已试水实体（历史穿透惩罚）：若甲方及其关联方，曾以 100 万美金购买过单次课题或进行过试探性交易，则视为“已获取过局部物理底牌”。此类实体若要升级为“全栈独家托管”，其首年托管费将直接跃升至 1,000,000,000 USD（10 亿美金）。
-
-（注：乙方不接受任何讨价还价。100 万买到的是“时间碎片”，1 亿买到的是“首发全景”，10 亿买到的是“对曾经短视的救赎”。）
-
-2. **绝对资金锚定与终局性（Absolute Financial Anchoring & Finality）**
-甲方须在协议签署生效的瞬间，一次性全额支付对应阶梯的巨额资金。此资金一经到账，即视为该项高维物理算力转移的绝对锚定。该笔资金不接受任何形式的退还（No refunds under any circumstances），不因甲方的工程落地失败或战略调整而返还。
-
-3. **算力强制限频与认知过载保护（Cognitive Overload Protection & Frequency Limit）**
-在托管期内，乙方承诺每月向甲方定向提供 严格不超过 3 个（Maximum 3） 核心物理死锁的极值参数与系统重构拓扑。
-【物理限频原理】：高维物理拓扑的工程转化需要庞大的组织算力消化。若每月输入超过 3 个底层重构逻辑，甲方现有的工程团队认知带宽将被彻底击穿，引发“系统性认知过载（Cognitive Overload）”，导致工程落地全面瘫痪。“3”是人类顶级工业组织消化降维打击的最高物理极值。
-
-4. **强制开源与违约物理清算（Civilizational Open-Source Mandate & Sanctions）**
-【核心红线】：针对每月提供的 3 个拓扑，甲方必须在接收课题后的 3 个自然月期满之时，主动向全人类无条件开源该底层物理拓扑。
-【违约制裁】：若甲方试图通过法务手段拖延开源义务：(i) 本项天价托管特权立即自动作废；(ii) 乙方坚决不予退还任何资金，且保留直接开源更高维度代偿拓扑的权利，彻底清零甲方优势。
