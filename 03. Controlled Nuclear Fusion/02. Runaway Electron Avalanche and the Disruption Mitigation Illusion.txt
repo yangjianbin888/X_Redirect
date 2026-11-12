@@ -1,0 +1,173 @@
+## 【English Version】
+
+# Controlled Nuclear Fusion: 02. Runaway Electron Avalanche and the Disruption Mitigation Illusion
+
+**Prerequisite: Trust = Physical Verification.**
+Verify with your supercomputers. If it computes, proceed.
+
+```text
+[ TOKAMAK DISRUPTION: RUNAWAY ELECTRON PHYSICAL DEADLOCK TREE ]
+🎯 Starting Point: Illusion of Control (Prediction = Prevention)
+│
+▼
+❌ Thermal quench seeds hot-tail runaways ──> ⚠️ Absolute Redline: Seed formation precedes mitigation actuation
+│
+▼
+❌ Avalanche growth during current quench amplifies seed by exponential factor
+│
+▼
+❌ Relativistic beam energy deposition exceeds volumetric melting threshold of W/CuCrZr
+│
+▼
+💥 SYSTEM COLLAPSE / VACUUM VESSEL BREACH
+====================================
+✅ RECONSTRUCTION TOPOLOGY
+    1. ✅ Passive runaway electron mitigation coil (REMC) ──> ⚠️ Constraint: Coil L/R time must be shorter than RE plateau formation
+    2. ✅ Shattered pellet injection with high-Z dopant at pre-quench trigger ──> ⚠️ Constraint: Assimilation depth at full current
+```
+
+**❌ The Root Deadlock:**
+
+A tokamak disruption is a physical cascade with a fixed sequence: thermal quench, current quench, runaway electron avalanche. The community treats prediction and avoidance as primary defense. This is physically incomplete as a sole strategy.
+
+The seed is formed during the thermal quench, not after. Hot-tail electrons—those in the high-energy tail of the pre-disruption Maxwellian that escape collisional slowing-down as the plasma cools—provide the seed population that the avalanche subsequently amplifies . The thermal quench timescale in reactor-relevant plasmas is on the order of milliseconds. The seed formation occurs *within* that window, not before it.
+
+Once the current quench begins, the avalanche mechanism takes over. The Rosenbluth-Putvinski growth rate establishes that the runaway population grows exponentially when the induced electric field exceeds the critical field \(E_c\) . The growth rate is proportional to \((E/E_c - 1)\). During current quench, the induced electric field is large—of order several \(E_c\)—and the avalanche exponent is correspondingly large.
+
+The wall impact energy is not uniform. It is a localized deposition event. Damage threshold analysis for tungsten under 100 MeV electron impact gives a melting threshold of approximately **30 MJ/m²** for bare tungsten divertor structures . For 300 MeV electrons, the threshold drops by 13–47% . The question is not whether the wall can absorb the energy. It is whether the beam can be deconfined before it concentrates.
+
+**❌ The Engineering Illusion:**
+
+The reflex is shattered pellet injection (SPI). Fire a cryogenic pellet, shatter it, radiate the energy away. ITER’s baseline mitigation is SPI. The physics is valid in principle. The illusion is in the timing assumption.
+
+SPI must assimilate material into the plasma *before* the thermal quench completes. The pellet travels at speeds exceeding 500 m/s, and the mitigation timescale is on the order of 1–2 ms from firing to plasma interaction . To achieve injection within 10 ms of a detected disruption, the injector must be positioned as close to the plasma as engineering constraints permit . This is a geometric constraint, not a control-loop constraint. Faster diagnostics do not move the injector closer.
+
+The second illusion is assimilation depth. At full plasma current, the material that does not penetrate to the core does not radiate the core energy. It cools the edge, changes the current profile, and may *seed* additional runaways rather than suppress them. ITER modeling indicates that RE avoidance may require raising electron density by a factor of **20–40 or more** . The mass throughput required for this density rise at 15 MA is not obviously compatible with the port area available for pellet injection.
+
+**✅ The Strategic Reconstruction (The Only Exit):**
+
+The only physically coherent exit is to accept that some disruptions will occur and to engineer the *consequence*. Two topologies survive first-principles scrutiny for reactor-relevant devices:
+
+**Topology A: Passive runaway electron mitigation coil (REMC).**
+
+SPARC will deploy a passively driven REMC that seeds MHD instabilities during current quench, enhancing RE transport to the wall before the avalanche can concentrate the beam . The coil is driven by the plasma current decay itself—no external trigger, no actuator latency. SPARC simulations show that with Ne-only massive gas injection (MGI), a runaway plateau of approximately **5.5 MA** forms; with the REMC, complete suppression of the RE current is obtained . The physical constraint is the coil L/R time constant: it must be shorter than the runaway plateau formation time to act before the beam concentrates. For SPARC-class geometry, this requires low-inductance, high-conductivity coil structures.
+
+**Topology B: Two-stage SPI with deuterium pre-injection followed by high-Z dopant.**
+
+ITER modeling indicates that staggered injection—hydrogen SPI followed by neon or neon-mixed SPI—is a promising scheme for RE avoidance by slowing hot-tail seed electrons with moderate dilution cooling before the high-Z injection radiates the thermal energy . The physical constraint is the energy balance after thermal quench: maintaining \(E/E_c\) below the avalanche threshold with massive deuterium deposition requires that the post-injection electron temperature remain in the collisional regime. If the plasma cools too rapidly, the induced electric field rises faster than the avalanche threshold can be managed.
+
+Neither topology eliminates the disruption. They shift the failure mode from vessel breach to controlled energy dispersal.
+
+**The Strategic Implication (Objective Assessment)**
+
+**· Tier-1 Giants:** The first high-current campaign is the physical deadline. If the REMC or validated SPI topology is not installed and qualified before full-current operation, the first unmitigated disruption at 8.7 MA (SPARC reference) or 15 MA (ITER) will produce a runaway electron impact event. The recovery interval is **18–24 months** for activated in-vessel repair and requalification. This interval derives from: (1) decay cooling of activated first-wall material to remote-handling dose thresholds; (2) post-irradiation examination of damaged components; (3) replacement and requalification under activated conditions. SPARC’s disruption strategy explicitly treats the REMC as a critical test of this prevention technique before extrapolation to ARC . The giant that validates the topology on SPARC owns the operational envelope for compact high-field devices.
+
+**· Tier-2 Startups:** Capital is not the advantage. The advantage is the **3-month window** to validate passive coil response and SPI assimilation at sub-scale in a linear device or small tokamak. The validated data—coil response bandwidth, radiative fraction scaling—becomes the procurement gate for post-event retrofit. If the first high-current campaign produces a vessel-impact event, the validated supplier wins by default.
+
+**⚠️ The Final Countdown:**
+
+Prediction does not eliminate the avalanche. Avoidance fails when the seed forms before the actuator fires. The first machine to operate at full current with an unqualified mitigation topology will produce a runaway electron impact visible on every gamma diagnostic in the building. That event will not be a “learning opportunity.” It will be the Rosenbluth-Putvinski growth rate enforcing a threshold condition that no control algorithm can negotiate with. The question is not whether the avalanche physics is correct. It is who will have the validated consequence-management topology installed before the first high-current plasma.
+
+*(Note: Exact topological mappings and engineering redlines are in the root directory protocol.)*
+
+**The Physical Consequence (Buy vs. Do Not Buy):**
+
+**· ❌ DO NOT BUY:** Proceed with SPI-only mitigation at full current. First unmitigated disruption produces localized runaway electron energy deposition exceeding the **30 MJ/m²** tungsten melting threshold . Machine enters **18–24 month** forced outage for activated in-vessel repair. First-campaign data is lost.
+
+**· ✅ BUY:** Acquire the validated REMC or two-stage SPI topology and the sub-scale test data that establishes the response bandwidth and radiative fraction. Use the **3-month** window to position as the sole qualified supplier for post-event retrofit. When the first vessel-impact event occurs, the retrofit procurement becomes a sole-source negotiation.
+
+**The Tinkerer‘s Trap (Half-Measures Die Harder):**
+
+**· ⚠️ WARNING:** If you deploy REMC without asymmetric coil placement, the perturbation is axisymmetric and produces no enhanced transport—the runaway beam passes through the coil field unaffected. If you deploy SPI without deuterium pre-injection at high current, the high-Z dopant cools the edge without radiating the core energy, and the mitigation pulse *increases* the hot-tail seed population by accelerating the thermal quench. Partial adoption produces a different failure mode at higher stored energy.
+
+**Why No Engineering Numbers? (The Physical Boundary):**
+
+**· ⚠️ THE DELIVERY BOUNDARY:** The exact coil geometry, pellet mass, dopant mixture, and port placement are the physical responsibility of your disruption physics and engineering teams. I sell the “Physical Death Sentence” and the “Only Exit.” If I provided the final drawings, I would be replacing your entire plasma control group. Physics dictates the absolute limits; your engineers must execute within them.
+
+---
+
+## 【中文版】
+
+# 可控核聚变：02. 逃逸电子雪崩与破裂缓解幻觉
+
+**前置声明：信任即物理验证。**
+用你们的超算去算。算通了，往下看。
+
+```text
+[ 托卡马克破裂：逃逸电子物理死锁树 ]
+🎯 起点：控制幻觉（预测 = 预防）
+│
+▼
+❌ 热淬灭播种热尾逃逸电子 ──> ⚠️ 绝对红线：种子形成先于缓解执行
+│
+▼
+❌ 电流淬灭期间雪崩增长以指数因子放大种子
+│
+▼
+❌ 相对论束流能量沉积超过W/CuCrZr体积熔化阈值
+│
+▼
+💥 系统崩溃 / 真空室穿透
+====================================
+✅ 重构拓扑
+    1. ✅ 被动逃逸电子缓解线圈（REMC）──> ⚠️ 约束：线圈L/R时间必须短于RE平台形成时间
+    2. ✅ 淬灭前触发的高Z掺杂碎弹丸注入 ──> ⚠️ 约束：全电流下的同化深度
+```
+
+**❌ 核心物理死锁：**
+
+托卡马克破裂是一个具有固定序列的物理级联：热淬灭、电流淬灭、逃逸电子雪崩。聚变界将预测与规避作为首要防线。作为唯一策略，这在物理上是不完整的。
+
+种子形成于热淬灭期间，而非之后。热尾电子——破裂前麦克斯韦分布高能尾部中在等离子体冷却时逃脱碰撞减速的那部分电子——提供雪崩随后放大的种子布居 。反应堆相关等离子体中的热淬灭时间尺度为毫秒量级。种子形成发生在该窗口*之内*，而非之前。
+
+一旦电流淬灭开始，雪崩机制接管。Rosenbluth-Putvinski 增长速率确立：当感应电场超过临界场 \(E_c\) 时，逃逸电子布居呈指数增长 。增长速率正比于 \((E/E_c - 1)\)。在电流淬灭期间，感应电场很大——为 \(E_c\) 的数倍量级——雪崩指数相应很大。
+
+壁撞击能量不是均匀的。它是局部化沉积事件。100 MeV 电子撞击下钨的损伤阈值分析给出裸钨偏滤器结构的熔化阈值约为 **30 MJ/m²** 。对于 300 MeV 电子，阈值下降 13–47% 。问题不是壁能否吸收能量。是束流能否在集中之前被去约束。
+
+**❌ 工程认知误区：**
+
+条件反射是碎弹丸注入（SPI）。发射低温弹丸，击碎它，辐射掉能量。ITER 的基线缓解是 SPI。原理上物理有效。幻觉在于时序假设。
+
+SPI 必须在热淬灭完成*之前*将材料同化入等离子体。弹丸以超过 500 m/s 的速度飞行，从点火到等离子体相互作用的缓解时间尺度为 1–2 ms 量级 。要在探测到破裂后 10 ms 内实现注入，注入器必须尽可能靠近等离子体布置，受工程约束限制 。这是几何约束，不是控制回路约束。更快的诊断不会让注入器更近。
+
+第二个幻觉是同化深度。在全等离子体电流下，未穿透至核心的材料不辐射核心能量。它冷却边缘，改变电流剖面，并且可能*播种*额外逃逸电子而非抑制它们。ITER 建模表明，避免逃逸电子可能需要将电子密度提高 **20–40 倍或更多** 。在 15 MA 下实现该密度升高所需的质量通量，与弹丸注入可用端口面积之间的兼容性并不显然。
+
+**✅ 系统级代偿拓扑（唯一生路）：**
+
+唯一物理自洽的出口是接受某些破裂将会发生，并工程化*后果*。两个拓扑通过反应堆相关装置的第一性原理审查：
+
+**拓扑 A：被动逃逸电子缓解线圈（REMC）。**
+
+SPARC 将部署一个被动驱动的 REMC，在电流淬灭期间播种 MHD 不稳定性，在雪崩集中束流之前增强逃逸电子向壁的输运 。线圈由等离子体电流衰减本身驱动——无外部触发，无执行器延迟。SPARC 模拟显示，仅用氖大规模气体注入（MGI）时形成约 **5.5 MA** 的逃逸平台；使用 REMC 时获得逃逸电子电流的完全抑制 。物理约束是线圈 L/R 时间常数：它必须短于逃逸平台形成时间，才能在束流集中之前动作。对 SPARC 级几何，这需要低电感、高电导率线圈结构。
+
+**拓扑 B：氘预注入后接高 Z 掺杂的两级 SPI。**
+
+ITER 建模表明，交错注入——氢 SPI 后接氖或氖混合 SPI——是一种有前景的逃逸电子避免方案：先以适度稀释冷却减缓热尾种子电子，再由高 Z 注入辐射热能量 。物理约束是热淬灭后的能量平衡：在大规模氘沉积下维持 \(E/E_c\) 低于雪崩阈值，要求注入后电子温度保持在碰撞主导区间。如果等离子体冷却过快，感应电场上升速度超过雪崩阈值可被管理的速度。
+
+两个拓扑都没有消除破裂。它们将失效模式从真空室穿透转向受控能量耗散。
+
+**客观战略影响**
+
+**· 对一线巨头：** 首个高电流运行 campaña 是物理死线。如果 REMC 或已验证的 SPI 拓扑未在全电流运行之前安装并鉴定，8.7 MA（SPARC 参考）或 15 MA（ITER）下的首次未缓解破裂将产生逃逸电子撞击事件。恢复间隔为活化真空室内维修与重新鉴定所需的 **18–24 个月**。该间隔推导自：(1) 活化第一壁材料衰变冷却至远程操作剂量阈值；(2) 受损部件的辐照后检验；(3) 活化条件下更换与重新鉴定。SPARC 的破裂策略明确将 REMC 视为在向 ARC 外推之前对该预防技术的关键测试 。在 SPARC 上验证该拓扑的巨头，拥有紧凑高场装置的运行包络。
+
+**· 对二线企业：** 资本不是优势。优势是**3 个月窗口**，在线性装置或小型托卡马克上缩比验证被动线圈响应与 SPI 同化。已验证的数据——线圈响应带宽、辐射分数定标——成为事件后改造的采购门槛。如果首个高电流运行 campaña 产生真空室撞击事件，已验证的供应商默认获胜。
+
+**⚠️ 爆雷倒计时：**
+
+预测不消除雪崩。规避在种子先于执行器点火形成时失效。首台在全电流下运行而未鉴定缓解拓扑的机器将产生一个在楼内每台伽马诊断上都可见的逃逸电子撞击事件。那个事件不会是“学习机会”。它是 Rosenbluth-Putvinski 增长速率在执行一个任何控制算法都无法谈判的阈值条件。问题不是雪崩物理是否正确。是谁能在首次高电流等离子体之前安装好已验证的后果管理拓扑。
+
+*(注：精确拓扑映射与工程红线见根目录协议。)*
+
+**物理终局清算（买与不买的物理分野）：**
+
+**· ❌ 不买：** 继续在全电流下使用纯 SPI 缓解。首次未缓解破裂产生局部化逃逸电子能量沉积超过 **30 MJ/m²** 钨熔化阈值 。机器进入 **18–24 个月**强制停堆，进行活化真空室内维修。首 campaña 数据丢失。
+
+**· ✅ 买：** 获取已验证的 REMC 或两级 SPI 拓扑及确立响应带宽与辐射分数的缩比测试数据。利用 **3 个月**窗口将自己定位为事件后改造的唯一合格供应商。当首次真空室撞击事件发生时，改造采购成为单一来源谈判。
+
+**试探者的物理死锁（擦边球预警）：**
+
+**· ⚠️ 警告：** 如果你部署 REMC 而不非对称布置线圈，扰动是轴对称的，不产生增强输运——逃逸束流不受线圈场影响地穿过。如果你在高电流下部署 SPI 而不加氘预注入，高 Z 掺杂冷却边缘而不辐射核心能量，缓解脉冲通过加速热淬灭*增加*热尾种子布居。部分采用产生的是不同的失效模式，在更高的储能下。
+
+**为什么不给落地数值？（物理边界声明）：**
+
+**· ⚠️ 交付边界：** 具体线圈几何、弹丸质量、掺杂混合比、端口布置，是你们破裂物理与工程团队的物理责任。我出售的是“物理死刑判决书”与“唯一生路”。如果我连图纸都画了，等于替你们整个等离子体控制组干了活。天道定极值，术业有专攻。你们的团队必须在物理红线之内，用你们的超算跑出具体的落地参数。
