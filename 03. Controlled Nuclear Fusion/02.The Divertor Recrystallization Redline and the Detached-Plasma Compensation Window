@@ -1,0 +1,184 @@
+# Controlled Nuclear Fusion: 02.The Divertor Recrystallization Redline and the Detached-Plasma Compensation Window
+
+**Prerequisite: Trust = Physical Verification.**
+Verify with your supercomputers. If it computes, proceed.
+
+```text
+[ DIVERTOR THERMAL PHYSICAL DEADLOCK TREE ]
+🎯 Starting Point: Illusion of Heat Spreading
+│
+▼
+❌ Surface temperature exceeds tungsten recrystallization threshold ──> ⚠️ Thermal conductivity collapses at the grain boundary network
+│
+▼
+❌ Local hot spot forms; heat cannot conduct to coolant
+│
+▼
+💥 MONOBLOCK STRUCTURAL FAILURE / COOLANT LEAK
+====================================
+✅ RECONSTRUCTION TOPOLOGY
+    1. ✅ Advanced tungsten grades with suppressed recrystallization ──> ⚠️ Constrained by ductile-to-brittle transition temperature
+    2. ✅ Detached plasma operation with radiative divertor ──> ⚠️ Constrained by core contamination tolerance
+
+"Software cannot bypass physical laws."
+"The 3-month priority and topology are in the repo."
+"No make-up exams in physics."
+```
+
+**❌ The Root Deadlock:**
+The divertor monoblock is the single component where all fusion power exhaust converges. The tungsten armor surface must absorb a steady-state heat flux that, for a reactor-grade device, is physically constrained to a narrow band. The recrystallization temperature of tungsten sets the first hard ceiling: for ITER-grade tungsten, recrystallization onset occurs in the range 1300–1500°C depending on grade and manufacturing route, with the upper recrystallization threshold near 2000 K for the most resistant rolled grades . Once the surface temperature crosses this threshold, the grain structure coarsens, thermal conductivity at the grain boundary network collapses, and the heat cannot conduct to the copper alloy heat sink fast enough. The surface temperature then rises further in a positive feedback loop. The monoblock does not fail by gradual erosion. It fails by a thermal conductivity cliff.
+
+**Physical Doom Translation**
+If the recrystallization threshold is not held below, the physical sequence is deterministic: the tungsten surface exceeds the recrystallization temperature, grain coarsening reduces thermal conductivity locally, the surface temperature accelerates upward at the hot spot, the copper interlayer reaches its own thermal limit, and the monoblock detaches from the heat sink. The physical form is a coolant leak into the vacuum vessel, forcing immediate shutdown. The capital form is a full divertor cassette replacement campaign, with the entire cassette string removed from the vessel and the plasma campaign terminated. The time form is the divertor remote handling cycle, which for a reactor-grade device is a months-scale physical operation that cannot be compressed by schedule pressure.
+
+**❌ The Engineering Illusion:**
+The standard response is to thicken the tungsten armor, increase coolant velocity, or deploy sweeping magnetic fields to spread the heat load. Thickening the armor increases the thermal resistance between the surface and the heat sink, raising the surface temperature for a given heat flux — the opposite of the intended effect. Increasing coolant velocity raises the critical heat flux limit but does not change the surface temperature at the armor top, which is set by conduction through the tungsten thickness. Sweeping spreads the time-averaged load but does not reduce the peak transient load during an edge-localized mode or a disruption. None of these measures touch the recrystallization temperature ceiling.
+
+**Physical Doom Translation**
+If the engineering response is to thicken the armor, the physical sequence is: the thermal resistance through the tungsten increases, the surface temperature rises faster for the same incident heat flux, the recrystallization front penetrates deeper into the armor thickness, and the structural load-bearing cross-section is reduced. The physical form is not a gradual performance degradation. It is a sudden detachment of the recrystallized layer under the thermal cycling stress, with tungsten debris entering the plasma and triggering a disruption. The capital form is simultaneous divertor damage and plasma-facing component contamination.
+
+**✅ The Strategic Reconstruction (The Only Exit):**
+The only physically viable exit is to reduce the incident heat flux at the divertor target below the recrystallization-driven failure threshold through a combination of two paths that are physically coupled.
+
+First-principles derivation:
+- Steady-state surface temperature: T_surface = T_coolant + q'' · (t_W / k_W + t_Cu / k_Cu + 1/h_coolant)
+- Recrystallization constraint: T_surface ≤ T_recryst, where T_recryst ≈ 1300–1500°C for wrought tungsten grades
+- Thermal conductivity of recrystallized tungsten: k_recryst ≈ 0.6–0.7 · k_initial at reactor-relevant temperatures
+
+The critical insight: **the divertor heat flux ceiling is not set by melting. It is set by the recrystallization-driven thermal conductivity collapse, which occurs several hundred degrees below the melting point.** The only physically viable compensation is to reduce q'' at the target surface below the recrystallization-limited value.
+
+The enabling path is radiative divertor operation with controlled plasma detachment. In detached operation, a significant fraction of the exhaust power is radiated in the divertor volume before reaching the target surface, reducing the incident heat flux by a factor physically bounded by the radiation fraction achievable without core contamination. For a reactor-grade device, the detachment window that maintains core performance while reducing target heat flux below the recrystallization limit is narrow but physically accessible.
+
+Physical limits of the detached path: the radiation front must remain stable against ELM transients and impurity accumulation. The core tungsten concentration must remain below the level at which bremsstrahlung radiation degrades core confinement. The divertor plasma temperature at the target must remain above the threshold for volumetric recombination to prevent excessive neutral backflow.
+
+**Physical Doom Translation**
+The detached divertor path has a hard physical boundary: if the radiation front destabilizes, the target heat flux spikes back to the attached value within the ELM timescale, the surface temperature crosses the recrystallization threshold in a single transient, and the thermal conductivity cliff is triggered. The physical form is a recrystallization front that propagates through the armor thickness over a few subsequent cycles, followed by monoblock detachment and coolant ingress. The capital form is a divertor replacement campaign initiated by a single uncontrolled ELM sequence, not by gradual wear.
+
+**The Strategic Implication (Objective Assessment)**
+· Tier-1 Giants: Securing the recrystallization-resistant tungsten grade and the detached-plasma control topology physically locks the divertor lifetime. Without it, the divertor becomes a consumable component with a replacement cycle that dominates the availability of the entire device. The true cost is the **18-month physical lag** to re-qualify a new tungsten grade and re-baseline the detachment control scheme against the recrystallization limit.
+· Tier-2 Startups: Capital is not the advantage; time is. The **3-month gap** is the only physical window to complete sub-scale divertor mock-up testing under reactor-relevant heat flux before the qualified tungsten supply is allocated to tier-1 divertor campaigns.
+
+**Physical Doom Translation**
+Tier-1 giants failing to lock the recrystallization-resistant tungsten grade: the divertor operates with a reduced thermal margin, the recrystallization front advances during every high-power campaign, and the cassette replacement interval shortens to the point where the device availability is set by divertor remote handling, not by plasma physics. Tier-2 startups failing to complete mock-up testing within the 3-month window: the qualified tungsten grade is allocated to tier-1 campaigns, the sub-scale validation cannot proceed, and the divertor design is locked into a grade with a known recrystallization deficit.
+
+**⚠️ The Final Countdown:**
+The recrystallization temperature is not a design variable. It is a material property. Every month spent on armor thickness optimization without addressing the surface temperature ceiling is a month subtracted from the divertor lifetime. When the qualified tungsten grade is allocated, the physics does not read your procurement schedule. A monoblock that cannot hold its surface below the recrystallization threshold will detach from the heat sink before the end of the first high-power campaign.
+
+**Physical Doom Translation**
+Continuing armor thickness optimization past the tungsten grade allocation lock: the recrystallization front penetrates the armor during the first high-fluence campaign, the thermal conductivity collapses at the hot spot, the copper interlayer reaches its limit, and the monoblock detaches. The physical form is coolant ingress into the vacuum vessel and an unplanned campaign termination. The capital form is a divertor cassette replacement campaign funded from the operating budget, not the capital budget, and a schedule slip that propagates through every downstream campaign.
+
+(Note: Exact topological mappings and engineering redlines are in the root directory protocol.)
+
+**The Physical Consequence (Buy vs. Do Not Buy):**
+· ❌ DO NOT BUY: Continue with conventional tungsten armor and attached divertor operation. The recrystallization front advances during every high-power campaign; the monoblock detaches at the thermal conductivity cliff; the divertor becomes a consumable with a replacement cycle that dominates device availability.
+· ✅ BUY: Acquire the recrystallization-resistant tungsten grade and the detached-plasma control topology within the 3-month window. This establishes a divertor lifetime that is set by erosion, not by a thermal conductivity cliff, and removes the cassette replacement campaign from the critical path.
+
+**Physical Doom Translation**
+Do not buy: the divertor cassette is removed from the vessel after the first high-power campaign, the replacement campaign consumes the operating window, and the device availability is permanently reduced. Buy: the recrystallization front is held below the armor thickness, the monoblock remains attached to the heat sink, and the divertor lifetime is extended to the erosion-limited regime, which is a physically slower failure mode by a factor of at least three.
+
+**The Tinkerer’s Trap (Half-Measures Die Harder):**
+· ⚠️ WARNING: Adopting the recrystallization-resistant tungsten grade without the detached-plasma control topology converts the failure mode from gradual recrystallization to catastrophic melting. A higher recrystallization temperature grade allows the surface to operate closer to the melting point, but without detachment the heat flux remains above the level at which any tungsten grade can maintain a stable thermal profile. The result is not a longer-lived divertor. It is a divertor that fails by melting instead of recrystallization, with a larger melt volume and a more severe plasma contamination event.
+
+**Physical Doom Translation**
+Adopting the resistant grade without detachment: the surface temperature margin to recrystallization is restored, but the heat flux still exceeds the level at which the thermal profile can be sustained. The surface temperature continues to rise past recrystallization into the melting regime. The physical form is a melt pool that ejects tungsten droplets into the core plasma, triggering a radiative collapse and a disruption. The capital form is simultaneous divertor destruction and a plasma-facing component contamination event that requires a full first-wall inspection campaign.
+
+**Why No Engineering Numbers? (The Physical Boundary):**
+· ⚠️ THE DELIVERY BOUNDARY: The exact tungsten grade, the monoblock geometry, and the detachment control actuator placement are the physical responsibility of your divertor engineering team. Physics dictates the recrystallization temperature ceiling and the thermal conductivity collapse ratio. Your engineers must execute within them.
+
+**Physical Doom Translation**
+Parameters outside the delivery boundary being externally specified: the divertor team loses the physical responsibility chain for the recrystallization–conductivity coupling, the execution window between the surface temperature ceiling and the thermal conductivity collapse is left unclosed, and the monoblock fails at a heat flux that was not predicted by the design correlation. The physical form is an untraceable divertor failure with no single parameter to adjust.
+
+---
+
+## 【中文版】（正文纯中文，保留工程参数与缩写）
+
+# 可控核聚变：02.偏滤器再结晶红线与等离子体脱靶代偿窗口
+
+**前置声明：信任即物理验证。**
+用你们的超算去算。算通了，往下看。
+
+```text
+[ 偏滤器热工物理死锁树 ]
+🎯 起点：散热幻觉
+│
+▼
+❌ 表面温度越过钨再结晶阈值 ──> ⚠️ 晶界网络热导率崩塌
+│
+▼
+❌ 局部热点形成，热量无法传导至冷却剂
+│
+▼
+💥 单块结构失效 / 冷却剂泄漏
+====================================
+✅ 重构拓扑
+    1. ✅ 抗再结晶先进钨 grades ──> ⚠️ 受韧脆转变温度约束
+    2. ✅ 等离子体脱靶运行与辐射偏滤器 ──> ⚠️ 受芯部杂质容忍度约束
+
+"软件无法绕过物理定律。"
+"3个月优先权与拓扑在仓库中。"
+"物理没有补考。"
+```
+
+**❌ 核心物理死锁：**
+偏滤器单块是全部聚变排热功率汇聚的唯一部件。钨装甲表面承受的稳态热流，在反应堆级装置中被物理约束在一个窄带内。钨的再结晶温度设定第一道硬天花板：对于 ITER 级钨材，再结晶起始温度在 1300–1500°C 区间，取决于牌号与制造路线，抗再结晶能力最强的轧制牌号上限约 2000 K 。一旦表面温度越过该阈值，晶粒粗化，晶界网络热导率崩塌，热量无法足够快地传导至铜合金热沉。表面温度随后在正反馈回路中继续上升。单块不是死于渐进侵蚀，是死于热导率断崖。
+
+**【物理死相】**
+再结晶阈值守不住，物理后果按序发生：钨表面越过再结晶温度，晶粒粗化使局部热导率下降，热点处表面温度加速上升，铜中间层触及自身热极限，单块与热沉脱离。物理形态为冷却剂泄漏进入真空室，触发强制停堆。资本形态为整条偏滤器 cassette 更换战役，cassette 串从真空室中拆除，等离子体 campaign 终止。时间形态为偏滤器远程操作周期——对于反应堆级装置，这是数个月尺度的物理操作，无法被进度压力压缩。
+
+**❌ 工程认知误区：**
+标准应对为加厚钨装甲、提高冷却剂流速、或部署扫掠磁场分散热负荷。加厚装甲增大表面到热沉之间的热阻，在给定热流下抬高表面温度——与预期效果相反。提高冷却剂流速提升临界热流上限，但不改变装甲顶部的表面温度，后者由穿过钨厚度的热传导决定。扫掠分散时均负荷，但不降低边缘局域模或破裂期间的峰值瞬态负荷。三者均不触及再结晶温度天花板。
+
+**【物理死相】**
+以加厚装甲作为工程应对，物理后果：穿过钨的热阻增大，同等入射热流下表面温度上升更快，再结晶前沿向装甲厚度深处推进，承载结构截面减小。物理形态不是渐进性能退化，是再结晶层在热循环应力下的突然脱离，钨碎屑进入等离子体并触发破裂。资本形态为偏滤器损伤与面向等离子体部件污染同步发生。
+
+**✅ 系统级代偿拓扑（唯一生路）：**
+唯一物理可行出口为通过两条物理耦合的路径，将偏滤器靶板入射热流降至再结晶驱动失效阈值以下。
+
+第一性原理推导：
+- 稳态表面温度：T_surface = T_coolant + q'' · (t_W / k_W + t_Cu / k_Cu + 1/h_coolant)
+- 再结晶约束：T_surface ≤ T_recryst，其中锻轧钨牌号 T_recryst ≈ 1300–1500°C
+- 再结晶钨热导率：k_recryst ≈ 0.6–0.7 · k_initial（反应堆相关温度下）
+
+关键洞察：**偏滤器热流天花板不由熔化设定，由再结晶驱动的热导率崩塌设定，后者比熔点低数百摄氏度。** 唯一物理可行的代偿是将靶板表面 q'' 降至再结晶限制值以下。
+
+使能路径为受控等离子体脱靶下的辐射偏滤器运行。在脱靶运行中，显著份额的排热功率在到达靶板表面之前在偏滤器体积内被辐射，入射热流降低幅度物理上受限于不污染芯部的前提下可实现的辐射份额。对于反应堆级装置，维持芯部性能同时将靶板热流降至再结晶限制以下的脱靶窗口是窄的，但物理上可及。
+
+脱靶路径的物理极限：辐射前沿须对 ELM 瞬态与杂质积累保持稳定。芯部钨浓度须低于轫致辐射导致芯部约束退化的水平。靶板处偏滤器等离子体温度须高于体积复合阈值，以防止过量中性粒子回流。
+
+**【物理死相】**
+脱靶路径存在硬物理边界：辐射前沿失稳时，靶板热流在 ELM 时间尺度内弹回附着值，表面温度在单次瞬态内越过再结晶阈值，热导率断崖被触发。物理形态为再结晶前沿在随后数个循环内穿透装甲厚度，单块脱离，冷却剂侵入。资本形态为一次未受控 ELM 序列启动的偏滤器更换战役，而非渐进磨损所致。
+
+**客观战略影响**
+· 对一线巨头：锁定抗再结晶钨牌号与脱靶控制拓扑，物理上锁死偏滤器寿命。无此，偏滤器成为消耗性部件，其更换周期主导整台装置的可用性。代价为重新验证钨牌号与重新基线化脱靶控制方案所需的 **18 个月物理滞后**。
+· 对二线企业：资本非优势，时间为优势。**3 个月窗口**是在反应堆相关热流下完成缩比偏滤器 mock-up 测试的唯一物理窗口，之后合格钨材供应将分配给一线偏滤器 campaign。
+
+**【物理死相】**
+一线巨头未锁定抗再结晶钨牌号：偏滤器以削减的热裕度运行，再结晶前沿在每个高功率 campaign 中推进，cassette 更换间隔缩短至装置可用性由偏滤器远程操作而非等离子体物理决定的程度。二线企业未在 3 个月窗口完成 mock-up 测试：合格钨牌号分配给一线 campaign，缩比验证无法推进，偏滤器设计被锁定在具有已知再结晶缺陷的牌号上。
+
+**⚠️ 爆雷倒计时：**
+再结晶温度不是设计变量，是材料属性。每花一个月在装甲厚度优化上而不触及表面温度天花板，就是从偏滤器寿命中扣除一个月。合格钨牌号分配锁定后，物理不读取采购计划。表面温度守不住再结晶阈值的单块，会在第一个高功率 campaign 结束之前与热沉脱离。
+
+**【物理死相】**
+钨牌号分配锁定后继续装甲厚度优化：再结晶前沿在首个高通量 campaign 中穿透装甲，热点处热导率崩塌，铜中间层触及极限，单块脱离。物理形态为冷却剂侵入真空室与计划外 campaign 终止。资本形态为由运营预算而非资本预算支付的偏滤器 cassette 更换战役，以及向所有下游 campaign 传播的进度滑移。
+
+(注：精确拓扑映射与工程红线见根目录协议。)
+
+**物理终局清算（买与不买的物理分野）：**
+· ❌ 不买：沿用常规钨装甲与附着偏滤器运行。再结晶前沿在每个高功率 campaign 中推进；单块在热导率断崖处脱离；偏滤器成为更换周期主导装置可用性的消耗品。
+· ✅ 买：3 个月窗口内取得抗再结晶钨牌号与脱靶控制拓扑。偏滤器寿命由侵蚀而非热导率断崖设定，cassette 更换战役移出关键路径。
+
+**【物理死相】**
+不买：首个高功率 campaign 后偏滤器 cassette 从真空室拆除，更换战役消耗运行窗口，装置可用性永久下降。买：再结晶前沿被压制在装甲厚度以下，单块保持与热沉连接，偏滤器寿命延伸至侵蚀限制 regime——一个物理上至少慢三倍的失效模式。
+
+**试探者的物理死锁（擦边球预警）：**
+· ⚠️ 警告：采纳抗再结晶钨牌号但不采纳脱靶控制拓扑，将失效模式从渐进再结晶转为灾难性熔化。更高再结晶温度的牌号允许表面运行在更接近熔点的位置，但无脱靶时热流仍高于任何钨牌号能维持稳定热剖面的水平。结果不是更长寿命的偏滤器，是以熔化而非再结晶方式失效的偏滤器，熔池体积更大，等离子体污染事件更严重。
+
+**【物理死相】**
+采纳抗再结晶牌号但不采纳脱靶：表面温度到再结晶的裕度恢复，但热流仍超过热剖面可维持的水平。表面温度越过再结晶继续进入熔化 regime。物理形态为熔池向芯部等离子体喷射钨液滴，触发辐射崩塌与破裂。资本形态为偏滤器毁伤与面向等离子体部件污染事件同步发生，需全第一壁检测战役。
+
+**为什么不给落地数值？（物理边界声明）：**
+· ⚠️ 交付边界：具体钨牌号、单块几何、脱靶控制执行器布置，属偏滤器工程团队的物理责任。天道定再结晶温度天花板与热导率崩塌比。工程师须在红线内跑出落地参数。
+
+**【物理死相】**
+交付边界外参数由外部给定：偏滤器团队失去再结晶-热导率耦合的物理责任链，表面温度天花板与热导率崩塌之间的执行窗口无人闭环，单块在设计关联式未预测的热流下失效。物理形态为不可追溯的偏滤器失效，无可调参数。
+
