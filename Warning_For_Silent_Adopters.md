@@ -1,52 +1,50 @@
-### 📄 英文版 (English Version)
+# ⚠️ A Physical Risk Notice for Silent Adopters
 
-# ⚠️ A Friendly Physics Reminder for "Silent Adopters"
+This is not a legal threat. It is a thermodynamic consequence notice.
 
-This is not a legal threat. It is a thermodynamic reality check.
-
-If your engineering team decides to extract the topological directions (the ✅ paths) from this repository without securing the priority calibration, you must understand the physical consequences:
+If your engineering team decides to extract the topological directions (the ✅ paths) from this repository without securing the priority calibration, the following physical consequences apply:
 
 **1. The "Direction" vs. "Constant" Deadlock**
-The open-source trees give you the *direction* to avoid the deadlock. However, the exact engineering constants (e.g., specific lattice dimensions, tolerance curves, and material activation energies) are withheld. 
-*Physics is non-linear.* A 10% deviation in a specific material constant can turn a "survival path" into a catastrophic structural failure. You will build a rocket that looks correct on paper but physically disintegrates on the launch pad.
+The open-source trees give you the *direction* to avoid the deadlock. The exact engineering constants (specific lattice dimensions, tolerance curves, material activation energies) are withheld.
 
-**2. The "Trial-and-Error" Penalty**
-Without the precise redline parameters, you are forced back into the blind trial-and-error loop. You will spend 24 months and hundreds of millions of dollars testing a half-correct topology, only to find that the localized thermal stress still exceeds the yield limit. 
+*Physics is non-linear.* A 10% deviation in a specific material constant can convert a survival path into a structural failure. The resulting hardware matches the drawing and fails at the test stand. ⚠️ This is not a probability statement; it is the behavior of non-linear systems under off-nominal constants.
+
+**2. The Trial-and-Error Penalty**
+Without the precise redline parameters, the engineering process reverts to blind trial-and-error. The physical cost is measurable: 24 months of test cycles and a multi-hundred-million-dollar budget spent on a half-correct topology, terminating at the same failure mode — localized thermal stress exceeding the material yield limit. ⚠️ The 24-month figure is a physical lag estimate, not a financial projection.
 
 **3. The Generational Gap**
-While you are wasting time testing incomplete parameters, the entity that secures the priority calibration will have already deployed the fully optimized topology. You will be permanently locked out of the high-margin market.
+While your team runs incomplete-parameter test cycles, the entity that secures the priority calibration deploys the fully optimized topology. The physical consequence: a permanent exclusion from the high-margin segment, because the deployment window closes before your validation completes.
 
 **Conclusion:**
-You can read the map for free. But if you walk into the physical minefield without the exact coordinates, the explosion is 100% guaranteed. 
+The map is readable for free. Entering the physical minefield without exact coordinates produces a deterministic outcome — the explosion is not a risk, it is the only physically permitted result.
 
 *"Physics has no customer service. Proceed at your own physical risk."*
 
 ---
+
 ---
 
 ### 📄 中文版 (Chinese Version)
 
-# ⚠️ 致“白嫖者”的物理风险提示
+# ⚠️ 致"静默采用者"的物理风险提示
 
-这不是法律威胁，这是热力学现实的善意提醒。
+这不是法律威胁，这是热力学后果提示。
 
-如果你的工程团队决定在不购买首发校准参数的情况下，直接从本仓库提取拓扑方向（即那些 ✅ 路径），你们必须清楚其背后的物理后果：
+如果你的工程团队决定在不购买首发校准参数的情况下，直接从本仓库提取拓扑方向（即那些 ✅ 路径），以下物理后果成立：
 
-**1. “方向”与“常数”的双重死锁**
-开源逻辑树只给了你们避开死锁的**方向**。但精确的工程常数（如具体的晶格尺寸、公差曲线、材料活化能极值）是被剥离的。
-*物理系统是非线性的。* 某个核心材料常数哪怕只有 10% 的偏差，都会把一条“生路”变成灾难性的结构崩塌。你们会造出一个在图纸上看似完美，但在试车台上物理解体的废铁。
+**1. "方向"与"常数"的双重死锁**
+开源逻辑树只给了你们避开死锁的**方向**。精确的工程常数（具体的晶格尺寸、公差曲线、材料活化能极值）是被剥离的。
 
-**2. “盲目试错”的物理反噬**
-没有精确的红线参数，你们将被迫退回到盲目试错的死循环。你们会花掉 24 个月和数亿美金去验证一个“半正确”的拓扑，最后绝望地发现：局部的热流密度依然击穿了材料的屈服极限。
+*物理系统是非线性的。* 某个核心材料常数哪怕只有 10% 的偏差，都会把一条"生路"转化为结构失效。产出的硬件与图纸一致，在试车台上失效。⚠️ 这不是概率陈述，这是非线性系统在常数偏离额定值时的行为。
+
+**2. "盲目试错"的物理代价**
+没有精确的红线参数，工程流程退回到盲目试错。物理代价是可量化的：24 个月试车周期与数亿级预算，消耗在一个"半正确"的拓扑上，最终终止于同一个失效模式——局部热流密度击穿材料屈服极限。⚠️ 24 个月为物理滞后估算，非财务预测。
 
 **3. 不可逆的代差锁定**
-当你们在残缺的参数中浪费生命时，那个购买了首发权的实体，已经部署了完全优化的拓扑。你们将被永久驱逐出高利润市场。
+当你们的团队在残缺参数中跑试车周期时，那个购买了首发权的实体，已经部署了完全优化的拓扑。物理后果：永久退出高利润区间，因为部署窗口在你们的验证完成前已经关闭。
 
 **结论：**
-你们可以免费看懂这张地图。但如果敢在没有精确坐标的情况下踏入物理雷区，100% 会踩响地雷。
+地图可以免费阅读。在没有精确坐标的情况下踏入物理雷区，产出是确定性的——爆炸不是风险，是物理上唯一被允许的结果。
 
-*“物理法则没有售后客服。请自行承担试错的物理风险。”*
+*"物理法则没有售后客服。请自行承担试错的物理风险。"*
 
-
-
-这篇文档放在仓库的显眼位置，就像在宝箱旁边立了一块墓碑。那些想白嫖的工程师看到后，在按下“下载”键的那一刻，手都会不由自主地抖一下。
