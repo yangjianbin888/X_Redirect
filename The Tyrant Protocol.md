@@ -1,6 +1,4 @@
 # The Tyrant‑Protocol.md (English Version)
-> Revision: V6.6 Final Engineering‑Commercial Locked‑in Edition
-> Notice: Read at your own risk.
 > "This open‑source license applies globally, including in the author's home country, without exception."
 > Note: If you do not recognize the technical articles in this repository, please exit directly and do not review this agreement.
 
@@ -9,7 +7,7 @@ The supreme adjudication rule of this agreement (and all my open‑source articl
 
 Within this system, trust is not emotional approval, not commercial endorsement, not academic title. **Trust is an independently reproducible physical‑verification procedure.**
 
-All derivations in this agreement, my X posts and Gitee repository **must be independently verified by your team using your own supercomputers**:
+This agreement, my X posts, Gitee repository, and other visible derivations **must be independently verified by your team using your own supercomputers**:
 - ✅ Logical closed‑loop and physically reproducible → trust is established, you may proceed to transaction negotiation.
 - ❌ Computationally inconsistent, or you refuse to perform independent reproduction verification → trust is NOT established. No technical dialogue, debate or argument shall be initiated. All clauses, technical parameters and subject communication under this agreement become invalid for your entity.
 
@@ -30,7 +28,7 @@ I will not persuade anyone and provide no pre‑sales technical Q&A. All foundat
 5. **Scarcity premium**: As physical‑engineering windows draw near, Party B reserves the right to adjust prices upward based on project urgency.
 6. **Credit anchoring**: Final pricing shall strictly follow the timestamp upon formal signing of the contract by both parties.
 7. **Scope of subjects**: Frontier dead‑locks with engineering‑prospective value within the next 10 years.
-8. **Technical value self‑assessment filter**: The engineering value of physical‑extreme topologies delivered by Party B far exceeds 1,000,000 USD. If Party A deems this price excessive, it means Party A’s engineering team is physically capable of deriving equivalent results independently. In such case please run your own supercomputer to obtain answers; no need to waste time and funds here.
+8. **Technical value self‑assessment filter**: The engineering value of physical‑extreme topologies delivered by Party B far exceeds 1,000,000 USD. If Party A deems this price excessive, it means Party A’s engineering team is physically capable of deriving equivalent results independently. In such case please run your own supercomputer to obtain answers; no need to waste time and funds here.
 
 ## 2. Delivery Standard (Physical Adjudication)
 1. **Feasible**: Deliver core physical‑constraint chains and engineering‑optimization paths.
@@ -38,18 +36,16 @@ I will not persuade anyone and provide no pre‑sales technical Q&A. All foundat
 3. **Reconstruction**: Provide system‑level compensation topologies when existing routes violate physical extremes.
 4. **Physical‑constant calibration exemption & deduction disclaimer**:
     - **Absolute laws vs relative parameters**: Core logical chains, causal topologies and physical‑extreme directions delivered by Party B are closed‑loop under first‑principles of the universe. However concrete process constants are subject to material‑smelting variance and super‑computing‑test environment limits of humankind. Party B does not deliver factory‑grade absolute constants.
-    - **Party A’s self‑fulfillment engineering obligation**: Party B delivers "death‑sentence rulings for dead‑locks" and "the only escape passages". After receiving deliverables, substituting real parameters from your own database to derive final engineering coordinates is Party A’s engineering obligation, not Party B’s joint‑liability burden.
-    - **Physical back‑lash disclaimer**: If Party A invokes "lack of precise constants" to cover for out‑of‑spec manufacturing tolerances or insufficient‑material‑purity physical facts, Party B bears zero associated liability. Physics offers no second‑chance re‑examination. Full responsibility for test‑flight disintegration caused by Party A’s inferior engineering shall rest 100 % with Party A.
+    - **Party A’s self‑fulfillment engineering obligation**: Party B delivers "death‑sentence rulings for dead‑locks" and "the escape passages". After receiving deliverables, substituting real parameters from your own database to derive final engineering coordinates is Party A’s engineering obligation, not Party B’s joint‑liability burden.
+    - **Physical back‑lash disclaimer**: If Party A invokes "lack of precise constants" to cover for out‑of‑spec manufacturing tolerances or insufficient‑material‑purity physical facts, Party B bears zero associated liability. Physics offers no second‑chance re‑examination. Full responsibility for test‑flight disintegration caused by Party A’s inferior engineering shall rest 100 % with Party A.
 
 ## 3. Core Covenants
-> **0. Trust precondition & non‑paid‑dialogue lock‑out (Added in V6.5; Civilization‑level‑disaster exception added in V6.6)**
+> **0. Trust precondition & non‑paid‑dialogue lock‑out**
 > Prior to formal payment and subject application:
 > ① Party B shall not participate in any form of technical debate, theoretical analysis, vulnerability tug‑of‑war, hypothetical deduction or counter‑example probing.
 > ② Party A may only conduct business‑process communication (quota status, payment procedure, contract text revision). **No technical‑type questions for reconnaissance, argument or boundary‑probing are permitted.**
 > ③ If Party A raises technical probing questions without payment, the original anti‑free‑riding public‑inquiry mechanism shall be triggered directly. Party B reserves the right to open‑source and publish physical logic extracted from such questions.
 > ④ Limited inquiry privileges for this subject shall only be activated after subject payment and formal acceptance. No technical‑inquiry rights exist in pre‑payment phase.
->
-> **Sole Exception: Civilization‑level disaster resolution.** This exception shall not be applied for by commercial entities on their own. Only in case of major disasters threatening national‑civilization survival, special negotiation may commence upon formal written endorsement issued by official state‑level authorities. For all other scenarios, this agreement as a whole shall not be disassembled or revised clause‑by‑clause. Without state‑level written endorsement, no enterprise may invoke project crisis or existential countdown as grounds to demand modification of agreement terms.
 
 1. **Anti‑free‑riding & public‑inquiry mechanism**:
 All foundational materials are open‑source in the repository for public technical review. **No free‑of‑charge POC or pre‑sales technical Q&A will be provided.**
@@ -57,7 +53,7 @@ All foundational materials are open‑source in the repository for public techni
 
 2. **Three‑month exclusive‑priority window (Revised: mandatory open‑source obligation removed)**
 Party A obtains the **"Three‑Month Exclusive‑Priority Right"** for the purchased specific subject.
-- **Priority window**: Within 3 months after delivery, Party B undertakes not to sell the complete solution of this subject to any third‑party entity and will not actively publish its complete detailed solution.
+- **Priority window**: Within 3 months after delivery, Party B undertakes not to sell the complete solution of this subject to any third‑party entity and will not actively publish its complete detailed solution.
 - **After expiration**: The three‑month‑priority‑window terminates automatically. Party B lifts restrictions on selling and publishing this subject’s solution. Party A obtains full disposal rights; Party A may choose confidentiality, partial publication or full publication at its sole discretion. **No mandatory open‑source obligation applies.**
 
 3. **Inquiry privilege**: One free follow‑up inquiry limited to clarification questions strictly related to this purchased subject. Subsequent technical inquiries on the same subject shall be charged per regular rate. Questions outside the scope of this subject shall be treated as brand‑new independent subjects governed by new‑subject pricing rules.
@@ -103,24 +99,36 @@ All theoretical architectures and dead‑lock‑logic‑trees in Party B’s ope
 5. Tax obligation: Party‑A shall provide valid‑payment vouchers.
 6. Jurisdiction: Governed under the laws of People’s Republic of China, exclusive jurisdiction belongs to courts at Party‑B’s domicile.
 
-### Agreement Statement (V6.6 Final‑Version)
+## 8. Civilization-Level Exception & Final Determination
+**1. Exception Channel (State Endorsement Principle)**
+All commercial clauses, non-paid dialogue lock-outs, and anti-monopoly quotas in this agreement apply strictly to commercial and enterprise-level projects. In the event of a major disaster threatening the survival of a nation or human civilization (e.g., planetary defense, nuclear criticality, super-virus outbreak), **this exception shall not be invoked by any commercial entity on its own.** Special negotiation for civilization-level crises can only commence upon the issuance of a formal written endorsement by the highest official state authorities.
+
+**2. Strategic Free Access & Tactical Ownership (Explosion-Proof Guide Open-Source Mechanism)**
+For civilization-level disasters (such as nuclear plant explosion-proof guidelines), the **[Strategic Directions & Physical Extreme Judgments]** provided by Party B shall be unconditionally open-sourced and free to all humanity. However, **[Specific Tactical Implementation Paths & Engineering Parameters]** shall be developed by the requesting party. Engineering achievements derived from such tactical development belong to the requesting party and may be legally applied for derivative engineering patents.
+
+**3. Force Majeure & Refund Disclaimer**
+If force majeure factors (including but not limited to: loss of deduction capability by the author, sudden extreme physical environment changes, physical disruption of the global supply chain) prevent Party B from delivering on time or providing extreme solutions, Party B shall refund the full amount received. Beyond this refund, Party B shall not bear any joint commercial losses or legal liabilities of Party A.
+
+**4. Author's Supreme Right of Interpretation**
+The final right to interpret, revise, and amend this agreement and the "Civilization-Level Exception Clause" belongs solely to the author's will. The author reserves the right to unilaterally add or remove exception scenarios in response to the evolution of physical reality.
+
+### Agreement Statement
 1. Truth remains open‑source: Repository materials are available for independent review; full‑solution deliverables under paid subjects impose no mandatory open‑source obligations on Party A.
 2. Trust threshold: Without completing independent physical reproduction of open‑source content, there is no qualification for technical dialogue; technical wrangling and bickering are prohibited.
-3. Sole special‑case rule: Civilization‑level‑disaster special negotiation is only activated upon official written state‑level endorsement; enterprise‑level project crisis does not constitute grounds for triggering the exception.
-4. Interface for qualified demand‑holders: Initial 1,000,000 USD grants priority‑implementation‑right plus three‑month exclusive‑priority window.
+3. Exception rule: Civilization‑level‑disaster special negotiation requires official written state‑level endorsement; enterprise‑level project crisis does not constitute grounds for triggering the exception.
+4. Interface for qualified demand‑holders: Initial 1,000,000 USD grants priority‑implementation‑right plus three‑month exclusive‑priority window.
 5. Time has monetary value: Premiums reflect purchased "compressed time".
 6. Cumulative‑pricing for ecosystem‑protection: Prevent unlimited subject hoarding by single entities.
 7. Priority‑window clarification: Three‑month commitment means Party‑B will not sell or actively publish complete solutions during this window; after expiration Party‑A obtains full disposal authority over deliverables.
-8. No coercion: The first 1,000,000 USD investment delivers high cost‑efficiency for crisis‑rescue‑grade scenarios.
+8. No coercion: The first 1,000,000 USD investment delivers high cost‑efficiency for crisis‑rescue‑grade scenarios.
 9. Character weighs above paper: Three‑month silence constitutes written contractual obligation.
 
 > Sincere souls meet sincerity here; others only see reflections of themselves.
 
 ---
+---
 
-# 霸王协议.md（中文版 V6.6 最终工程商业定稿版）
->版本：V6.6 最终工程商业定稿版
->更新说明：V6.6新增【文明级灾难破局唯一例外条款】，其余继承V6.5全部内容
+# 霸王协议.md（中文版最终定稿版）
 >提示：阅读即视为自担风险。
 >“本开源许可全球适用，包含作者母国，无一例外。”
 >注：如不认可本仓库技术文章，请直接退出，不要阅读本协议。
@@ -130,7 +138,7 @@ All theoretical architectures and dead‑lock‑logic‑trees in Party B’s ope
 
 在本体系之内，信任不是情感认同、不是商业背书、不是学术头衔。**信任是一套可以独立复现的物理验证过程。**
 
-本协议、我的X帖文、Gitee仓库全部推导内容，**必须由贵方团队使用自有超算完成独立复现：**
+本协议、我的X帖文、Gitee仓库等等，以及其他任何可见推导内容，**必须由贵方团队使用自有超算完成独立复现：**
 - ✅ 逻辑闭环，物理可以复现 → 信任成立，可以进入交易谈判。
 - ❌ 算不通，或者不愿意开展独立复现验证 → 信任不成立。不开启任何技术对话、辩论、拉扯。协议全部条款、技术参数、课题沟通，对贵方全部无效。
 
@@ -144,8 +152,8 @@ All theoretical architectures and dead‑lock‑logic‑trees in Party B’s ope
 > **我提供的不仅仅是技术，更是被压缩的时间与确定性。**
 
 ## 一、标的与定价
-1. **基础标价**：**1 000 000 美元 / 单项课题**（首次合作基准价）。
-2. **累计递增定价**：同一实体常规提问按历史累计计数。第 N 次常规课题提问价格为 **N × 1 000 000 美元**，上限一亿美元。
+1. **基础标价**：**1 000 000 美元 / 单项课题**（首次合作基准价）。
+2. **累计递增定价**：同一实体常规提问按历史累计计数。第 N 次常规课题提问价格为 **N × 1 000 000 美元**，上限一亿美元。
 3. **防垄断限制与超额提问惩罚**：为避免单一巨头垄断物理确定性，**同一实体每30天最多提交1个全新课题**。若甲方30天内急需提交第二个全新课题，需要支付**当前常规价格十倍的惩罚溢价**，溢价以当次常规价为基数，无上限。
 4. **每月十票制**：每个自然月全球只放出10个课题名额。资金合法到账锁定名额，先到先得。
 5. **稀缺溢价**：随着工程物理窗口逼近，乙方有权依据项目紧迫程度上调价格。
@@ -163,14 +171,12 @@ All theoretical architectures and dead‑lock‑logic‑trees in Party B’s ope
     - **物理反噬免责**：甲方不得以“没有给出精确常数”，掩盖自身制造公差超标、材料纯度不足的物理事实，由此带来一切后果乙方概不负责。物理没有补考。甲方工程低劣造成试车解体，全部责任100%归甲方。
 
 ## 三、核心契约
->**0、信任前置 · 非付费对话锁止（V6.5新增；V6.6新增文明级灾难例外）**
+>**0、信任前置 · 非付费对话锁止**
 >尚未正式付费申购课题阶段：
 >① 乙方不参与任何技术辩论、理论辨析、漏洞拉扯、假设推演、反问试探。
 >② 甲方仅可以开展商务流程沟通（名额、付款流程、合同文本修订），**禁止抛出任何技术类问题用来摸底、抬杠、试探边界。**
 >③ 未付费状态下甲方抛出技术试探问题，直接触发反白嫖公开质询机制，乙方有权提取问题背后物理逻辑对外开源发表。
 >④ 只有课题付费完成并且正式受理，才开放本课题有限提问特权；未付费阶段不存在技术提问权。
->
->**唯一例外：文明级灾难破局。该例外不接受商业实体自行申请；仅发生威胁国家文明存续级别重大灾难时，由国家官方机构出具正式书面背书文件，才可启动专项协商。其余全部场景，协议整体不可拆解、不可逐条谈判修改。无国家书面背书，任何企业不得以项目危机、生死倒计时为由，要求变更协议条款。**
 
 1. **反白嫖与公开质询机制**
 全部基础素材开源公开可供审查。**不提供免费POC，不提供售前技术答疑。**
@@ -224,7 +230,21 @@ All theoretical architectures and dead‑lock‑logic‑trees in Party B’s ope
 5. 税务责任：甲方提供付款凭证。
 6. 司法管辖：适用中华人民共和国法律，排他管辖为乙方所在地人民法院。
 
-### 协议声明（V6.6定稿）
+## 八、文明级灾难破例与终审声明
+
+**1. 破例通道（国家背书原则）**
+本协议的全部商业条款、非付费锁定机制及防垄断配额，仅针对商业级、企业级项目。若发生威胁国家或人类文明存续的重大灾难（如行星防御、核泄漏临界、超级病毒爆发），**该破例不接受任何商业实体自行申请。** 必须由国家官方最高机构出具正式书面背书文件，方可启动文明级专项协商。
+
+**2. 战略免费与战术归属（防爆指南开源机制）**
+针对文明级灾难（如核电厂防爆指南等），乙方提供的【战略方向与物理极值判定】将无条件向全人类开源、免费公开。但【具体战术落地路径与工程参数】由需求方自行研发；需求方基于该战术研发产生的工程成果，归需求方所有，并可依法申请衍生工程专利。
+
+**3. 不可抗力与退款免责**
+若因不可抗力因素（包括但不限于：作者丧失推演能力、极端物理环境突变、全球供应链物理性阻断等）导致乙方无法按时交付或无法给出极值解答，乙方将全额退还已收款项。但除此之外，乙方不承担甲方任何连带商业损失或法律责任。
+
+**4. 协议的作者最高解释权**
+本协议及《文明级破例条款》的最终解释、修订与增减权，仅归作者本人意志所有。作者有权根据物理现实的演进，单方面增删例外场景。
+
+### 协议声明
 1. 真理保持开源：仓库公开内容可供独立审查；付费课题完整解法不对甲方施加强制开源义务。
 2. 信任门槛：没有完成开源内容独立复现，没有技术对话资格，禁止技术拉扯扯皮。
 3. 特殊例外规则：文明级灾难专项协商，必须持有国家层面正式书面背书才启动；企业级项目危机，不构成触发例外的理由。
