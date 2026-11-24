@@ -1,125 +1,81 @@
-# The Tyrant‑Protocol
+# Tyrant Protocol V7.0 (Three-State Verdict Edition)
 
-> Notice: Read at your own risk.
-> "This open‑source license applies globally, including in the author's home country, without exception."
-> Note: If you do not recognize the technical articles in this repository, please exit directly and do not review this agreement.
+> Notice: Reading constitutes acceptance of risk. This protocol applies globally.
+> Note: If you do not endorse the technical baseline of this repository, please exit directly.
 
-## To all potential collaborators
-The supreme adjudication rule of this agreement (and all my open‑source articles) is one single core: **Physical‑grade Trust.**
+## To All Potential Collaborators
 
-Within this system, physical‑grade trust is not emotional approval, not commercial endorsement, not academic title. **Physical‑grade trust is an independently reproducible physical‑verification procedure.**
+The sole supreme adjudication baseline of this protocol is one principle: **Physical-Grade Trust.**
+Physical-grade trust is not emotional endorsement, nor academic背书 (endorsement). It is a set of independently reproducible physical verification processes.
 
-All derivations in this agreement, my X posts and Gitee repository **must be independently verified by your team using your own supercomputers**:
-- ✅ Logical closed‑loop and physically reproducible → physical‑grade trust is established, you may proceed to transaction negotiation.
-- ❌ Computationally inconsistent, or you refuse to perform independent reproduction verification → physical‑grade trust is NOT established. No technical dialogue, debate or argument shall be initiated. All clauses, technical parameters and subject communication under this agreement become invalid for your entity.
+All my derivations have been publicly disclosed in the open-source repository. **Your team must complete independent reproduction using your own supercomputers.**
+- ✅ Logic closes the loop, physics is reproducible → Trust established. Enter negotiation.
+- ❌ Cannot compute it, or unwilling to compute → Trust not established. No technical dialogue is opened.
 
-I will not persuade anyone and provide no pre‑sales technical Q&A. All foundational materials are published in the open‑source repository.
-**Verify by yourself if you trust; stay apart if you do not.**
+I persuade no one. **If you trust, reproduce it yourself; if you don't, we part in peace.**
 
-# Frontier Physical Dead‑lock Solving & Engineering Compensation Agreement
-**Preamble**: This agreement strictly follows the dual benchmarks of "logical self‑consistency" and "physical reproducibility". It provides physical‑extreme deductions and system‑level reconstruction schemes stripped of academic redundancy.
-**Applicable parties**: Scientific research institutes, key laboratories and high‑tech enterprises that have completed independent physical reproduction of open‑source contents and satisfied the physical‑grade trust precondition.
-**Cooperation statement**: All transactions shall be conducted within a strictly legal compliance framework.
-> **What I provide is not merely technology, but compressed time and absolute certainty.**
+---
 
-## 1. Subject‑matter and Pricing
-1. **Base price**: **1,000,000 USD per single subject** (benchmark price for initial cooperation).
-2. **Cumulative progressive pricing**: Regular inquiry counts of one single entity shall be calculated based on total historical records. The price for the N‑th regular subject inquiry shall be **N × 1,000,000 USD**, capped at 100,000,000 USD.
-3. **Anti‑monopoly restriction and excess‑inquiry penalty**: To prevent a single giant entity from monopolizing physical certainty, **one entity may submit at most one brand‑new subject within every 30‑day window**. If Party A urgently requires a second brand‑new subject within 30 days, a punitive premium equal to **10 times the current regular price** shall be paid. This premium shall always be calculated based on the regular price of that occurrence, with no upper limit.
-4. **Ten‑voucher monthly quota**: Only 10 new subject slots are released globally per calendar month. Slots are secured upon legal fund arrival, first‑come‑first‑served.
-5. **Scarcity premium**: As physical‑engineering windows draw near, Party B reserves the right to adjust prices upward based on project urgency.
-6. **Credit anchoring**: Final pricing shall strictly follow the timestamp upon formal signing of the contract by both parties.
-7. **Scope of subjects**: Frontier dead‑locks with engineering‑prospective value within the next 10 years.
-8. **Technical value self‑assessment filter**: The engineering value of physical‑extreme topologies delivered by Party B far exceeds 1,000,000 USD. If Party A deems this price excessive, it means Party A’s engineering team is physically capable of deriving equivalent results independently. In such case please run your own supercomputer to obtain answers; no need to waste time and funds here.
+# Frontier Engineering Physical State Assessment Protocol
 
-## 2. Delivery Standard (Physical Adjudication)
-1. **Feasible**: Deliver core physical‑constraint chains and engineering‑optimization paths.
-2. **Infeasible**: Confirm dead‑lock and define absolute physical‑boundary parameters.
-3. **Reconstruction**: Provide system‑level compensation topologies when existing routes violate physical extremes.
-4. **Physical‑constant calibration exemption & deduction disclaimer**:
-    - **Absolute laws vs relative parameters**: Core logical chains, causal topologies and physical‑extreme directions delivered by Party B are closed‑loop under first‑principles of the universe. However concrete process constants are subject to material‑smelting variance and super‑computing‑test environment limits of humankind. Party B does not deliver factory‑grade absolute constants.
-    - **Party A’s self‑fulfillment engineering obligation**: Party B delivers "death‑sentence rulings for dead‑locks" and "the only escape passages". After receiving deliverables, substituting real parameters from your own database to derive final engineering coordinates is Party A’s engineering obligation, not Party B’s joint‑liability burden.
-    - **Physical back‑lash disclaimer**: If Party A invokes "lack of precise constants" to cover for out‑of‑spec manufacturing tolerances or insufficient‑material‑purity physical facts, Party B bears zero associated liability. Physics offers no second‑chance re‑examination. Full responsibility for test‑flight disintegration caused by Party A’s inferior engineering shall rest 100% with Party A.
+**Intended for**: Research institutions, key laboratories, and high-tech enterprises that have completed independent reproduction of the open-source content.
 
-## 3. Core Covenants
-> **0. Physical‑grade trust precondition & non‑paid‑dialogue lock‑out**
-> Prior to formal payment and subject application:
-> ① Party B shall not participate in any form of technical debate, theoretical analysis, vulnerability tug‑of‑war, hypothetical deduction or counter‑example probing.
-> ② Party A may only conduct business‑process communication (quota status, payment procedure, contract text revision). **No technical‑type questions for reconnaissance, argument or boundary‑probing are permitted.**
-> ③ If Party A raises technical probing questions without payment, the original anti‑free‑riding public‑inquiry mechanism shall be triggered directly. Party B reserves the right to open‑source and publish physical logic extracted from such questions.
-> ④ Limited inquiry privileges for this subject shall only be activated after subject payment and formal acceptance. No technical‑inquiry rights exist in pre‑payment phase.
+> **What I deliver is not drawings, not processes, but compressed time and physical certainty.**
+
+## I. Scope & Pricing
+
+1. **Base Price**: **$1,000,000 USD / single topic** (benchmark price for initial engagement).
+2. **Cumulative Escalating Pricing**: Regular inquiries from the same entity are tracked on a cumulative historical basis. The price for the Nth inquiry is **N × $1,000,000 USD** (capped at $100,000,000).
+3. **Anti-Monopoly Limit**: The same entity may submit at most 1 new topic per 30 days. A second topic requires a 10× punitive premium.
+4. **Ten Tickets Per Month**: Only 10 slots are released globally per month, first come, first served.
+5. **Technical Value Self-Assessment Statement**: If you consider the pricing expensive, it means your team is capable of deriving it independently. Please solve it yourselves with your supercomputers; no need to waste time here.
+
+## II. Delivery Standard (Three-State Verdict)
+
+Party A submits a new project, new material, or technical route (including relevant physical parameters) to Party B. Party B uses only the *Pure Physics Constitution V1.0* and AI computing power to issue a **Three-State Verdict Report and complete logical chain**.
+
+No engineering drawings, no specific process parameters, no interference in Party A's internal management or personnel.
+
+1. **✅ State One [Proposition Holds]**:
+   Issue the physical causal chain proving that the project closes the loop logically under extreme working conditions. Party A may invest with confidence.
+2. **⚠️ State Two [Candidate Conjecture · Pending Verification]**:
+   Issue a list of missing physical parameters and specify the experimental means required to lock them. Party A must fill in the missing parameters themselves.
+3. **❌ State Three [Physically Absolutely Unsolvable]**:
+   Issue the deadlock logic proof. Declare that the route has a deadlock at the underlying physics level (e.g., the second law of thermodynamics, the Shannon limit). **If the verdict is State Three, every additional dollar invested or every additional test run by Party A on this project is anti-physical ineffective work and a crime against resources.**
+
+## III. Core Contract (Exemption & Red Lines)
+
+> **0. Physical-Grade Trust Prerequisite · Non-Paid Dialogue Lock**
 >
-> **Sole Exception: Civilization‑level disaster resolution.** This exception shall not be applied for by commercial entities on their own. Only in case of major disasters threatening national‑civilization survival, special negotiation may commence upon formal written endorsement issued by official state‑level authorities. For all other scenarios, this agreement as a whole shall not be disassembled or revised clause‑by‑clause. Without state‑level written endorsement, no enterprise may invoke project crisis or existential countdown as grounds to demand modification of agreement terms.
+> Before payment, only business processes (slots, transfers) may be communicated. **Throwing out any technical question to probe boundaries is forbidden.** Unpaid technical questions directly trigger the anti-free-riding mechanism; Party B reserves the right to open-source it as a public topic.
 
-1. **Anti‑free‑riding & public‑inquiry mechanism**:
-All foundational materials are open‑source in the repository for public technical review. **No free‑of‑charge POC or pre‑sales technical Q&A will be provided.**
-*Core counter‑measure: If Party A raises exploratory technical questions without payment, **Party B reserves the absolute right to treat them as public‑domain topics and open‑source‑publish their core physical logic**. Confidentiality requires prior payment.*
+1. **Anti-Free-Riding & Public Inquiry Mechanism**: No pre-sales Q&A. Unpaid probing questions are deemed public topics and will be open-sourced.
+2. **Finality of Delivery & Physical Exemption**:
+   - No refunds after delivery.
+   - **Law is absolute; parameters are relative**: Party B delivers physical verdicts (three states) and causal law. Specific process constants are limited by human material dispersion; Party B does not provide "factory-grade absolute constants."
+   - **Physical Backfire Exemption**: After Party A receives the verdict, all human actions—engineering implementation, material testing, personnel accountability—are unrelated to Party B. **Physics has no make-up exams. If Party A ignores the warning and proceeds recklessly, causing a test-flight disintegration, 100% of the responsibility belongs to Party A.**
+3. **Three-Month Priority Window**:
+   Within 3 months of delivery, Party B will not sell the complete solution of the topic to any third party.
+4. **Follow-Up Privilege**: One free follow-up is provided (limited to clarification of this topic). Derivative questions are billed as new topics.
+5. **Physical Channel Lock & Anti-Sockpuppet**: Only the primary email is recognized. Highly isomorphic topics are judged as sockpuppet arbitrage, frozen, and fined.
 
-2. **Three‑month exclusive‑priority window**
-Party A obtains the **"Three‑Month Exclusive‑Priority Right"** for the purchased specific subject.
-- **Priority window**: Within 3 months after delivery, Party B undertakes not to sell the complete solution of this subject to any third‑party entity and will not actively publish its complete detailed solution.
-- **After expiration**: The three‑month‑priority‑window terminates automatically. Party B lifts restrictions on selling and publishing this subject’s solution. Party A obtains full disposal rights; Party A may choose confidentiality, partial publication or full publication at its sole discretion. **No mandatory open‑source obligation applies.**
+## IV. On the Physical Open-Sourcing of the "Civilization Tax" (Party B's Privilege Reserved)
 
-3. **Inquiry privilege**: One free follow‑up inquiry limited to clarification questions strictly related to this purchased subject. Subsequent technical inquiries on the same subject shall be charged per regular rate. Questions outside the scope of this subject shall be treated as brand‑new independent subjects governed by new‑subject pricing rules.
+(Note: This clause replaces the previous verbose provisions on mandatory open-sourcing.)
+The "three-state verdict logic" delivered by Party B: 3 months after contract signing, **Party B has the right to open-source it (after de-identification) to all humanity as an underlying physical law.** However, the specific processes, commercial drawings, and material formulas independently developed by Party A based on the verdict report are Party A's assets, and Party B does not mandate open-sourcing.
 
-4. **Final delivery rule**: No refund after delivery. Party B disclaims liability for failures caused by Party‑A‑side manufacturing deviations.
+## V. Party A's Rights, Responsibilities & Verification
 
-5. **Full‑channel disaster tolerance & 24‑hour time‑lock**:
-    - **Trigger rule**: Subject application is valid upon receipt at primary mailbox: `jianbinboy@gmail.com`. After confirmation the buyer **must complete payment within 24 hours**, otherwise the slot becomes invalid.
-    - **Physical‑disclaimer for fund delay**: If fund transfer is delayed due to bank risk‑control, slot‑lock time shall be extended indefinitely until fund arrival.
-    - **Triple backup channels**: If primary mailbox fails send to backup mailbox `49075061@qq.com`. If mail channels are blocked, use private messages on X / Gitee / Zhihu / 51CTO. No reply across all channels equals slot sold‑out.
+1. Data fidelity: Submitting false data to trick Party B into running AI—consequences borne by Party A.
+2. Local compliance: Comply with local laws.
 
-6. **Physical‑channel lock & anti‑sock‑puppet arbitrage**:
-    (1) Only contact person and primary mailbox reserved upon first transaction are valid channels. (2) If a new‑entity‑submitted subject’s physical causal chain is highly isomorphic with historical subjects, sock‑puppet arbitrage shall be determined. (3) Upon trigger: transaction cancelled without refund, **original entity and related affiliates shall be frozen from submitting subjects for three months**. Thaw requires supplementary payment at cumulative sky‑high price difference.
+## VI. Party B's Rights
 
-7. **Slot quota & confidentiality**: 10 slots per month, first‑come‑first‑served. A 3‑calendar‑day pre‑payment slot‑reservation period is offered; abandoning reservation yields no refund. Party B undertakes not to disclose payment details actively for three years.
+1. **Deliver Verdicts Only**: Output only the "three states" and the "physical logical chain."
+2. **No Amateur Directing the Expert**: Absolutely no involvement in Party A's internal struggles, personnel layoffs, or departmental restructuring. How Party A assigns blame is of no concern to Party B.
 
-8. **Open‑source base & patent anti‑dead‑lock**
-All theoretical architectures and dead‑lock‑logic‑trees in Party B’s open‑source repository are protected under the *Physics‑Rule Open‑Source Protocol (P.R.O.P)*.
-- Party A **shall not independently apply for patents covering raw physical topologies and raw causal‑logic‑chains directly delivered by Party B**. These original first‑principles‑physical‑framework deliverables shall not be treated as patent‑eligible exclusive subject‑matter.
-- Party A is permitted to file **derivative‑engineering‑class patents** built upon delivered physical frameworks combined with Party‑A‑owned measured test data, process‑implementation, hardware‑structure and algorithm‑engineering improvements. Patent applications merely copying raw physical topologies shall trigger counter‑measures under this clause.
-- If Party‑A or affiliates attempt to apply patents directly for raw un‑modified physical topologies delivered by Party B, legal dead‑lock triggers automatically: (1) All free authorizations granted to Party A terminate immediately; (2) Party B reserves the right to globally publish evidence of malicious patent‑grabbing conduct; (3) Party B reserves the right to launch global patent‑invalidation proceedings using immutable repository timestamps as prior‑art evidence.
+## VII. Payment & Compliance Boundaries
 
-9. **Mandatory constraint for "Physically Ordered Reconstruction" during technical route switching**
-Upon delivery of this subject, when Party A executes the "termination of the dead-locked route" and "new topology reconstruction," it must strictly follow the physical system's principle of "decoupling and transition." It is strictly forbidden to adopt a "one-size-fits-all" violent reset (such as wholesale layoffs of core technical teams).
-- **State Mapping**: Party A must treat the technical assets of the original R&D team (underlying logic, measured data, engineering experience) as "known parameters" and seamlessly map them to the new topology system. Neglecting the sunk costs and personnel accumulation of the old system is strictly prohibited.
-- **Progressive Decoupling**: A smooth transition of at least one physical cycle (e.g., retraining, adaptation to the new architecture) must be provided to achieve a smooth transfer of system energy, rather than instantly cutting off the energy supply.
-- **Cognitive Accountability Lock**: The root cause of the physical dead-lock is "top-level cognitive self-locking." If Party A uses "project failure" as an excuse to violently purge the frontline execution layer during the route switch, it will be determined as **"Party A's refusal to bear decision-making responsibility for the physical dead-lock."**
-- **Contractual Backlash**: If the aforementioned violent reset is triggered, it will be deemed as Party A experiencing a "second causal collapse." Party B has the right to immediately terminate all privileges granted to Party A under this agreement (including priority rights and derivative patent authorizations) without any refund of paid funds. Party B reserves the right to globally open-source and publicize this breach of contract and its underlying physical logic.
-
-## 4. Party‑A Rights & Obligations
-1. Data authenticity: Forgery of data is strictly prohibited.
-2. Verification & anti‑frame‑up: Physical measurement shall be third‑party‑endorsed. Malicious defamation triggers liability.
-3. Territorial compliance: Abide by local‑jurisdiction laws.
-
-## 5. Party‑B Rights
-1. Deliver‑only‑results: Provide only topologies and parameters.
-2. Exempt from miscellaneous work: Will not participate in Party‑A internal‑management or public‑relations work; will refuse all pre‑sales technical debates and bickering.
-3. Boundary closure: Not responsible for drawing‑level engineering implementation.
-
-## 6. Supplementary Clauses
-1. Review authority: Brokers and patent trolls will be rejected.
-2. Open‑source extraction: Self‑extraction from open‑source materials is at your own risk.
-3. Anti‑AI‑plagiarism: Assembly‑plagiarism without signed contract is prohibited.
-
-## 7. Payment & Compliance Boundary
-1. Settlement benchmark: Settlement follows cumulative‑count rules.
-2. Accounts: Only legally‑valid domestic‑region accounts are provided.
-3. Compliance isolation: Foreign‑exchange and tax‑related matters are Party‑A’s full responsibility.
-4. Delivery pre‑condition: Deliverables are handed over only upon full‑fund arrival.
-5. Tax obligation: Party‑A shall provide valid‑payment vouchers.
-6. Jurisdiction: Governed under the laws of People’s Republic of China, exclusive jurisdiction belongs to courts at Party‑B’s domicile.
-
-### Agreement Statement
-1. Truth remains open‑source: Repository materials are available for independent review; full‑solution deliverables under paid subjects impose no mandatory open‑source obligations on Party A.
-2. Physical‑grade trust threshold: Without completing independent physical reproduction of open‑source content, there is no qualification for technical dialogue; technical wrangling and bickering are prohibited.
-3. Sole special‑case rule: Civilization‑level‑disaster special negotiation is only activated upon official written state‑level endorsement; enterprise‑level project crisis does not constitute grounds for triggering the exception.
-4. Interface for qualified demand‑holders: Initial 1,000,000 USD grants priority‑implementation‑right plus three‑month exclusive‑priority window.
-5. Time has monetary value: Premiums reflect purchased "compressed time".
-6. Cumulative‑pricing for ecosystem‑protection: Prevent unlimited subject hoarding by single entities.
-7. Priority‑window clarification: Three‑month commitment means Party‑B will not sell or actively publish complete solutions during this window; after expiration Party‑A obtains full disposal authority over deliverables.
-8. No coercion: The first 1,000,000 USD investment delivers high cost‑efficiency for crisis‑rescue‑grade scenarios.
-9. Bottom Line & Moat: Physical dead-locks are paid for by top-level cognitive errors. Scapegoating and violent layoffs are prohibited. Those who violate the physically ordered reconstruction process will face complete causal backlash.
-10. Character weighs above paper: Three‑month silence constitutes written contractual obligation.
-
-> Sincere souls meet sincerity here; others only see reflections of themselves.
+1. Only domestic lawful accounts are provided. Foreign exchange and tax matters are entirely Party A's responsibility.
+2. Delivery only after full payment arrives.
+3. Governed by the laws of the People's Republic of China.
